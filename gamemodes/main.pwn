@@ -3,6 +3,14 @@
 #include <float>
 #include <zcmd>
 #include <sscanf2>
+#include <a_mysql>
+
+#define MYSQL_HOST "localhost"
+#define MYSQL_USER "root"
+#define MYSQL_PASS "Randomly97."
+#define MYSQL_NAME "rp"
+
+new MySQL: dbclient;
 
 #pragma tabsize 0
 
@@ -68,6 +76,19 @@ public OnGameModeInit()
 	AllowAdminTeleport(1);
 
 	AddPlayerClass(265,1958.3783,1343.1572,15.3746,270.1425,0,0,0,0,-1,-1);
+
+	new MySQLOpt: option_id = mysql_init_options();	
+	mysql_set_option(option_id, AUTO_RECONNECT, true);
+	dbclient = mysql_connect(MYSQL_HOST, MYSQL_USER, MYSQL_PASS, MYSQL_NAME, option_id);
+	UsePlayerPedAnims();
+	if (dbclient == MYSQL_INVALID_HANDLE || mysql_errno(dbclient) != 0) {
+		new db_err_message[128];
+		format(db_err_message, sizeof(db_err_message), "[DB] Error connecting to database: %i", mysql_errno(dbclient));
+		print(db_err_message);
+		SendRconCommand("exit");
+	} else {
+		print("[DB] Connected to database successfully");
+	}
 
 	return 1;
 }
