@@ -92,18 +92,23 @@ strtok(const string[], &index)
 }
 
 CMD:givemoney(playerid, params[]) {
-  new targetId, ammount, playerName[MAX_PLAYER_NAME], targetPlayerName[MAX_PLAYER_NAME];
+  new playerMoney, targetid, ammount, playerName[MAX_PLAYER_NAME], targetPlayerName[MAX_PLAYER_NAME];
+  playerMoney = GetPlayerMoney(playerid);
+  if (playerMoney < ammount) {
+    SendClientMessage(playerid, -1, "You don't have enough money");
+    return 1;
+  }
   GetPlayerName(playerid, playerName, sizeof(playerName));
-  GetPlayerName(targetId, targetPlayerName, sizeof(targetPlayerName));
-  if(sscanf(params, "ui", targetId, ammount)) {
+  GetPlayerName(targetid, targetPlayerName, sizeof(targetPlayerName));
+  if(sscanf(params, "ui", targetid, ammount)) {
     SendClientMessage(playerid, -1, "Usage: /givemoney [playerid] [ammount]");
     return 1;
   }
-  if(targetId == playerid) {
+  if(targetid == playerid) {
     SendClientMessage(playerid, -1, "You can't give money to yourself");
     return 1;
   }
-  if(!IsPlayerConnected(targetId)) {
+  if(!IsPlayerConnected(targetid)) {
     SendClientMessage(playerid, -1, "Player not found");
     return 1;
   }
@@ -113,12 +118,12 @@ CMD:givemoney(playerid, params[]) {
     return 1;
   }
 
-  GivePlayerMoney(targetId, ammount);
+  GivePlayerMoney(targetid, ammount);
   new msg[128];
   format(msg, sizeof(msg), "$%i given to player %s", ammount, targetPlayerName);
   SendClientMessage(playerid, -1, msg);
   format(msg, sizeof(msg), "$%i given to you by %s", ammount, playerName);
-  SendClientMessage(targetId, -1, msg);
-  PlayerPlaySound(targetId, 1054, 0.0, 0.0, 0.0);
+  SendClientMessage(targetid, -1, msg);
+  PlayerPlaySound(targetid, 1054, 0.0, 0.0, 0.0);
   return 1;
 }
