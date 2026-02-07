@@ -334,3 +334,6201 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:14:52] ---------------------------------------
 
 [13:14:52] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:52:21] filterscripts = ""  (string)
+[17:52:21] 
+[17:52:21] Server Plugins
+[17:52:21] --------------
+[17:52:21]  Loaded 0 plugins.
+
+[17:52:22] 
+[17:52:22] Filterscripts
+[17:52:22] ---------------
+[17:52:22]   Loaded 0 filterscripts.
+
+[17:52:22] Loaded 3 vehicles from: vehicles/trains.txt
+[17:52:22] Loaded 3 vehicles from: vehicles/pilots.txt
+[17:52:22] Loaded 15 vehicles from: vehicles/lv_law.txt
+[17:52:22] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[17:52:22] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[17:52:22] Loaded 38 vehicles from: vehicles/sf_law.txt
+[17:52:22] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[17:52:22] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[17:52:22] Loaded 24 vehicles from: vehicles/ls_law.txt
+[17:52:22] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[17:52:22] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[17:52:22] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[17:52:22] Loaded 71 vehicles from: vehicles/whetstone.txt
+[17:52:22] Loaded 168 vehicles from: vehicles/bone.txt
+[17:52:22] Loaded 61 vehicles from: vehicles/flint.txt
+[17:52:22] Loaded 96 vehicles from: vehicles/tierra.txt
+[17:52:22] Loaded 96 vehicles from: vehicles/red_county.txt
+[17:52:22] Total vehicles from files: 1781
+[17:52:22] 
+---------------------------------------
+[17:52:22] Running Grand Larceny - by the SA-MP team
+
+[17:52:22] ---------------------------------------
+
+[17:52:22] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:52:38] filterscripts = ""  (string)
+[17:52:38] 
+[17:52:38] Server Plugins
+[17:52:38] --------------
+[17:52:38]  Loading plugin: mysql
+[17:52:38]   Failed.
+[17:52:38]  Loaded 0 plugins.
+
+[17:52:38] 
+[17:52:38] Filterscripts
+[17:52:38] ---------------
+[17:52:38]   Loaded 0 filterscripts.
+
+[17:52:38] Loaded 3 vehicles from: vehicles/trains.txt
+[17:52:38] Loaded 3 vehicles from: vehicles/pilots.txt
+[17:52:38] Loaded 15 vehicles from: vehicles/lv_law.txt
+[17:52:38] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[17:52:38] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[17:52:38] Loaded 38 vehicles from: vehicles/sf_law.txt
+[17:52:38] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[17:52:38] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[17:52:38] Loaded 24 vehicles from: vehicles/ls_law.txt
+[17:52:38] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[17:52:38] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[17:52:38] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[17:52:38] Loaded 71 vehicles from: vehicles/whetstone.txt
+[17:52:38] Loaded 168 vehicles from: vehicles/bone.txt
+[17:52:38] Loaded 61 vehicles from: vehicles/flint.txt
+[17:52:38] Loaded 96 vehicles from: vehicles/tierra.txt
+[17:52:38] Loaded 96 vehicles from: vehicles/red_county.txt
+[17:52:38] Total vehicles from files: 1781
+[17:52:38] 
+---------------------------------------
+[17:52:38] Running Grand Larceny - by the SA-MP team
+
+[17:52:38] ---------------------------------------
+
+[17:52:38] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:53:02] filterscripts = ""  (string)
+[17:53:02] 
+[17:53:02] Server Plugins
+[17:53:02] --------------
+[17:53:02]  Loading plugin: mysql
+[17:53:02]   Failed.
+[17:53:02]  Loaded 0 plugins.
+
+[17:53:03] 
+[17:53:03] Filterscripts
+[17:53:03] ---------------
+[17:53:03]   Loaded 0 filterscripts.
+
+[17:53:03] Loaded 3 vehicles from: vehicles/trains.txt
+[17:53:03] Loaded 3 vehicles from: vehicles/pilots.txt
+[17:53:03] Loaded 15 vehicles from: vehicles/lv_law.txt
+[17:53:03] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[17:53:03] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[17:53:03] Loaded 38 vehicles from: vehicles/sf_law.txt
+[17:53:03] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[17:53:03] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[17:53:03] Loaded 24 vehicles from: vehicles/ls_law.txt
+[17:53:03] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[17:53:03] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[17:53:03] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[17:53:03] Loaded 71 vehicles from: vehicles/whetstone.txt
+[17:53:03] Loaded 168 vehicles from: vehicles/bone.txt
+[17:53:03] Loaded 61 vehicles from: vehicles/flint.txt
+[17:53:03] Loaded 96 vehicles from: vehicles/tierra.txt
+[17:53:03] Loaded 96 vehicles from: vehicles/red_county.txt
+[17:53:03] Total vehicles from files: 1781
+[17:53:03] 
+---------------------------------------
+[17:53:03] Running Grand Larceny - by the SA-MP team
+
+[17:53:03] ---------------------------------------
+
+[17:53:03] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:53:23] filterscripts = ""  (string)
+[17:53:23] 
+[17:53:23] Server Plugins
+[17:53:23] --------------
+[17:53:23]  Loading plugin: mysql
+[17:53:25]   Failed.
+[17:53:25]  Loaded 0 plugins.
+
+[17:53:25] 
+[17:53:25] Filterscripts
+[17:53:25] ---------------
+[17:53:25]   Loaded 0 filterscripts.
+
+[17:53:25] Loaded 3 vehicles from: vehicles/trains.txt
+[17:53:25] Loaded 3 vehicles from: vehicles/pilots.txt
+[17:53:25] Loaded 15 vehicles from: vehicles/lv_law.txt
+[17:53:25] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[17:53:25] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[17:53:25] Loaded 38 vehicles from: vehicles/sf_law.txt
+[17:53:25] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[17:53:25] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[17:53:25] Loaded 24 vehicles from: vehicles/ls_law.txt
+[17:53:25] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[17:53:25] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[17:53:25] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[17:53:25] Loaded 71 vehicles from: vehicles/whetstone.txt
+[17:53:25] Loaded 168 vehicles from: vehicles/bone.txt
+[17:53:25] Loaded 61 vehicles from: vehicles/flint.txt
+[17:53:25] Loaded 96 vehicles from: vehicles/tierra.txt
+[17:53:25] Loaded 96 vehicles from: vehicles/red_county.txt
+[17:53:25] Total vehicles from files: 1781
+[17:53:25] 
+---------------------------------------
+[17:53:25] Running Grand Larceny - by the SA-MP team
+
+[17:53:25] ---------------------------------------
+
+[17:53:25] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:53:27] filterscripts = ""  (string)
+[17:53:27] 
+[17:53:27] Server Plugins
+[17:53:27] --------------
+[17:53:27]  Loading plugin: mysql
+[17:53:30]   Failed.
+[17:53:30]  Loaded 0 plugins.
+
+[17:53:30] 
+[17:53:30] Filterscripts
+[17:53:30] ---------------
+[17:53:30]   Loaded 0 filterscripts.
+
+[17:53:30] Loaded 3 vehicles from: vehicles/trains.txt
+[17:53:30] Loaded 3 vehicles from: vehicles/pilots.txt
+[17:53:30] Loaded 15 vehicles from: vehicles/lv_law.txt
+[17:53:30] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[17:53:30] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[17:53:30] Loaded 38 vehicles from: vehicles/sf_law.txt
+[17:53:30] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[17:53:30] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[17:53:30] Loaded 24 vehicles from: vehicles/ls_law.txt
+[17:53:30] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[17:53:30] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[17:53:30] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[17:53:30] Loaded 71 vehicles from: vehicles/whetstone.txt
+[17:53:30] Loaded 168 vehicles from: vehicles/bone.txt
+[17:53:30] Loaded 61 vehicles from: vehicles/flint.txt
+[17:53:30] Loaded 96 vehicles from: vehicles/tierra.txt
+[17:53:30] Loaded 96 vehicles from: vehicles/red_county.txt
+[17:53:30] Total vehicles from files: 1781
+[17:53:30] 
+---------------------------------------
+[17:53:30] Running Grand Larceny - by the SA-MP team
+
+[17:53:30] ---------------------------------------
+
+[17:53:30] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:53:43] filterscripts = ""  (string)
+[17:53:43] 
+[17:53:43] Server Plugins
+[17:53:43] --------------
+[17:53:43]  Loading plugin: mysql
+[17:53:47]   Failed.
+[17:53:47]  Loaded 0 plugins.
+
+[17:53:47] 
+[17:53:47] Filterscripts
+[17:53:47] ---------------
+[17:53:47]   Loaded 0 filterscripts.
+
+[17:53:47] Loaded 3 vehicles from: vehicles/trains.txt
+[17:53:47] Loaded 3 vehicles from: vehicles/pilots.txt
+[17:53:47] Loaded 15 vehicles from: vehicles/lv_law.txt
+[17:53:47] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[17:53:47] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[17:53:47] Loaded 38 vehicles from: vehicles/sf_law.txt
+[17:53:47] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[17:53:47] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[17:53:47] Loaded 24 vehicles from: vehicles/ls_law.txt
+[17:53:47] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[17:53:47] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[17:53:47] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[17:53:47] Loaded 71 vehicles from: vehicles/whetstone.txt
+[17:53:47] Loaded 168 vehicles from: vehicles/bone.txt
+[17:53:47] Loaded 61 vehicles from: vehicles/flint.txt
+[17:53:47] Loaded 96 vehicles from: vehicles/tierra.txt
+[17:53:47] Loaded 96 vehicles from: vehicles/red_county.txt
+[17:53:47] Total vehicles from files: 1781
+[17:53:47] 
+---------------------------------------
+[17:53:47] Running Grand Larceny - by the SA-MP team
+
+[17:53:47] ---------------------------------------
+
+[17:53:47] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:54:27] filterscripts = ""  (string)
+[17:54:27] 
+[17:54:27] Server Plugins
+[17:54:27] --------------
+[17:54:27]  Loading plugin: mysql
+[17:54:28]   Failed.
+[17:54:28]  Loaded 0 plugins.
+
+[17:54:28] 
+[17:54:28] Filterscripts
+[17:54:28] ---------------
+[17:54:28]   Loaded 0 filterscripts.
+
+[17:54:28] Loaded 3 vehicles from: vehicles/trains.txt
+[17:54:28] Loaded 3 vehicles from: vehicles/pilots.txt
+[17:54:28] Loaded 15 vehicles from: vehicles/lv_law.txt
+[17:54:28] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[17:54:28] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[17:54:28] Loaded 38 vehicles from: vehicles/sf_law.txt
+[17:54:28] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[17:54:28] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[17:54:28] Loaded 24 vehicles from: vehicles/ls_law.txt
+[17:54:28] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[17:54:28] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[17:54:28] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[17:54:28] Loaded 71 vehicles from: vehicles/whetstone.txt
+[17:54:28] Loaded 168 vehicles from: vehicles/bone.txt
+[17:54:28] Loaded 61 vehicles from: vehicles/flint.txt
+[17:54:28] Loaded 96 vehicles from: vehicles/tierra.txt
+[17:54:28] Loaded 96 vehicles from: vehicles/red_county.txt
+[17:54:28] Total vehicles from files: 1781
+[17:54:28] 
+---------------------------------------
+[17:54:28] Running Grand Larceny - by the SA-MP team
+
+[17:54:28] ---------------------------------------
+
+[17:54:28] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:33:43] 
+[11:33:43] Server Plugins
+[11:33:43] --------------
+[11:33:43]  Loading plugin: sscanf
+[11:33:43] 
+[11:33:43]  ===============================
+[11:33:43] 
+[11:33:43]       sscanf plugin loaded.     
+[11:33:43] 
+[11:33:43]          Version: 2.13.8
+[11:33:43] 
+[11:33:43]    (c) 2022 Alex "Y_Less" Cole  
+[11:33:43] 
+[11:33:43]  ===============================
+[11:33:43] 
+[11:33:43]   Loaded.
+[11:33:43]  Loading plugin: mysql
+[11:33:43]  >> plugin.mysql: R41-4 successfully loaded.
+[11:33:43]   Loaded.
+[11:33:43]  Loaded 2 plugins.
+
+[11:33:43] 
+[11:33:43] Filterscripts
+[11:33:43] ---------------
+[11:33:43]   Loading filterscript 'flymode.amx'...
+[11:33:44]   Loaded 1 filterscripts.
+
+[11:33:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:33:44] [DB] Connected to database successfully
+[11:33:44] 
+----------------------------------
+[11:33:44]   Bare Script
+
+[11:33:44] ----------------------------------
+
+[11:33:44] Number of vehicle models: 0
+[11:34:11] [connection] incoming connection: 127.0.0.1:64257 id: 0
+[11:34:11] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[11:36:57] [part] Ivan_Pistolas has left the server (0:1)
+[11:36:58] --- Server Shutting Down.
+[11:36:58] 
+[11:36:58]  ===============================
+[11:36:58] 
+[11:36:58]      sscanf plugin unloaded.    
+[11:36:58] 
+[11:36:58]  ===============================
+[11:36:58] 
+[11:36:58] plugin.mysql: Unloading plugin...
+[11:36:58] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:38:19] 
+[11:38:19] Server Plugins
+[11:38:19] --------------
+[11:38:19]  Loading plugin: sscanf
+[11:38:19] 
+[11:38:19]  ===============================
+[11:38:19] 
+[11:38:19]       sscanf plugin loaded.     
+[11:38:19] 
+[11:38:19]          Version: 2.13.8
+[11:38:19] 
+[11:38:19]    (c) 2022 Alex "Y_Less" Cole  
+[11:38:19] 
+[11:38:19]  ===============================
+[11:38:19] 
+[11:38:19]   Loaded.
+[11:38:19]  Loading plugin: mysql
+[11:38:19]  >> plugin.mysql: R41-4 successfully loaded.
+[11:38:19]   Loaded.
+[11:38:19]  Loaded 2 plugins.
+
+[11:38:19] 
+[11:38:19] Filterscripts
+[11:38:19] ---------------
+[11:38:19]   Loading filterscript 'flymode.amx'...
+[11:38:19]   Loaded 1 filterscripts.
+
+[11:38:19] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:38:19] [DB] Connected to database successfully
+[11:38:19] 
+----------------------------------
+[11:38:19]   Bare Script
+
+[11:38:19] ----------------------------------
+
+[11:38:19] Number of vehicle models: 0
+[11:38:21] --- Server Shutting Down.
+[11:38:21] 
+[11:38:21]  ===============================
+[11:38:21] 
+[11:38:21]      sscanf plugin unloaded.    
+[11:38:21] 
+[11:38:21]  ===============================
+[11:38:21] 
+[11:38:21] plugin.mysql: Unloading plugin...
+[11:38:21] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:38:32] 
+[11:38:32] Server Plugins
+[11:38:32] --------------
+[11:38:32]  Loading plugin: sscanf
+[11:38:32] 
+[11:38:32]  ===============================
+[11:38:32] 
+[11:38:32]       sscanf plugin loaded.     
+[11:38:32] 
+[11:38:32]          Version: 2.13.8
+[11:38:32] 
+[11:38:32]    (c) 2022 Alex "Y_Less" Cole  
+[11:38:32] 
+[11:38:32]  ===============================
+[11:38:32] 
+[11:38:32]   Loaded.
+[11:38:32]  Loading plugin: mysql
+[11:38:32]  >> plugin.mysql: R41-4 successfully loaded.
+[11:38:32]   Loaded.
+[11:38:32]  Loaded 2 plugins.
+
+[11:38:32] 
+[11:38:32] Filterscripts
+[11:38:32] ---------------
+[11:38:32]   Loading filterscript 'flymode.amx'...
+[11:38:32]   Loaded 1 filterscripts.
+
+[11:38:32] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:38:32] [DB] Connected to database successfully
+[11:38:32] 
+----------------------------------
+[11:38:32]   Bare Script
+
+[11:38:32] ----------------------------------
+
+[11:38:32] Number of vehicle models: 0
+[11:38:57] [connection] incoming connection: 127.0.0.1:61925 id: 0
+[11:38:57] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[11:39:30] [part] Ivan_Pistolas has left the server (0:1)
+[11:39:39] --- Server Shutting Down.
+[11:39:39] 
+[11:39:39]  ===============================
+[11:39:39] 
+[11:39:39]      sscanf plugin unloaded.    
+[11:39:39] 
+[11:39:39]  ===============================
+[11:39:39] 
+[11:39:39] plugin.mysql: Unloading plugin...
+[11:39:39] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:41:21] 
+[11:41:21] Server Plugins
+[11:41:21] --------------
+[11:41:21]  Loading plugin: sscanf
+[11:41:21] 
+[11:41:21]  ===============================
+[11:41:21] 
+[11:41:21]       sscanf plugin loaded.     
+[11:41:21] 
+[11:41:21]          Version: 2.13.8
+[11:41:21] 
+[11:41:21]    (c) 2022 Alex "Y_Less" Cole  
+[11:41:21] 
+[11:41:21]  ===============================
+[11:41:21] 
+[11:41:21]   Loaded.
+[11:41:21]  Loading plugin: mysql
+[11:41:21]  >> plugin.mysql: R41-4 successfully loaded.
+[11:41:21]   Loaded.
+[11:41:21]  Loaded 2 plugins.
+
+[11:41:21] 
+[11:41:21] Filterscripts
+[11:41:21] ---------------
+[11:41:21]   Loading filterscript 'flymode.amx'...
+[11:41:21]   Loaded 1 filterscripts.
+
+[11:41:21] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:41:21] [DB] Connected to database successfully
+[11:41:21] 
+----------------------------------
+[11:41:21]   Bare Script
+
+[11:41:21] ----------------------------------
+
+[11:41:21] Number of vehicle models: 0
+[11:41:51] [connection] incoming connection: 127.0.0.1:61642 id: 0
+[11:41:51] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[11:42:04] [part] Ivan_Pistolas has left the server (0:1)
+[11:45:31] --- Server Shutting Down.
+[11:45:31] 
+[11:45:31]  ===============================
+[11:45:31] 
+[11:45:31]      sscanf plugin unloaded.    
+[11:45:31] 
+[11:45:31]  ===============================
+[11:45:31] 
+[11:45:31] plugin.mysql: Unloading plugin...
+[11:45:31] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:45:41] 
+[11:45:41] Server Plugins
+[11:45:41] --------------
+[11:45:41]  Loading plugin: sscanf
+[11:45:41] 
+[11:45:41]  ===============================
+[11:45:41] 
+[11:45:41]       sscanf plugin loaded.     
+[11:45:41] 
+[11:45:41]          Version: 2.13.8
+[11:45:41] 
+[11:45:41]    (c) 2022 Alex "Y_Less" Cole  
+[11:45:41] 
+[11:45:41]  ===============================
+[11:45:41] 
+[11:45:41]   Loaded.
+[11:45:41]  Loading plugin: mysql
+[11:45:41]  >> plugin.mysql: R41-4 successfully loaded.
+[11:45:41]   Loaded.
+[11:45:41]  Loaded 2 plugins.
+
+[11:45:41] 
+[11:45:41] Filterscripts
+[11:45:41] ---------------
+[11:45:41]   Loading filterscript 'flymode.amx'...
+[11:45:41]   Loaded 1 filterscripts.
+
+[11:45:41] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:45:41] [DB] Connected to database successfully
+[11:45:41] 
+----------------------------------
+[11:45:41]   Bare Script
+
+[11:45:41] ----------------------------------
+
+[11:45:41] Number of vehicle models: 0
+[11:46:04] [connection] incoming connection: 127.0.0.1:59790 id: 0
+[11:46:05] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[11:46:23] [part] Ivan_Pistolas has left the server (0:1)
+[11:48:53] --- Server Shutting Down.
+[11:48:53] 
+[11:48:53]  ===============================
+[11:48:53] 
+[11:48:53]      sscanf plugin unloaded.    
+[11:48:53] 
+[11:48:53]  ===============================
+[11:48:53] 
+[11:48:53] plugin.mysql: Unloading plugin...
+[11:48:53] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:49:02] 
+[11:49:02] Server Plugins
+[11:49:02] --------------
+[11:49:02]  Loading plugin: sscanf
+[11:49:02] 
+[11:49:02]  ===============================
+[11:49:02] 
+[11:49:02]       sscanf plugin loaded.     
+[11:49:02] 
+[11:49:02]          Version: 2.13.8
+[11:49:02] 
+[11:49:02]    (c) 2022 Alex "Y_Less" Cole  
+[11:49:02] 
+[11:49:02]  ===============================
+[11:49:02] 
+[11:49:02]   Loaded.
+[11:49:02]  Loading plugin: mysql
+[11:49:02]  >> plugin.mysql: R41-4 successfully loaded.
+[11:49:02]   Loaded.
+[11:49:02]  Loaded 2 plugins.
+
+[11:49:02] 
+[11:49:02] Filterscripts
+[11:49:02] ---------------
+[11:49:02]   Loading filterscript 'flymode.amx'...
+[11:49:02]   Loaded 1 filterscripts.
+
+[11:49:02] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:49:02] [DB] Connected to database successfully
+[11:49:02] 
+----------------------------------
+[11:49:02]   Bare Script
+
+[11:49:02] ----------------------------------
+
+[11:49:02] Number of vehicle models: 0
+[11:49:54] [connection] incoming connection: 127.0.0.1:54346 id: 0
+[11:49:54] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[11:50:55] [part] Ivan_Pistolas has left the server (0:1)
+[11:51:29] --- Server Shutting Down.
+[11:51:29] 
+[11:51:29]  ===============================
+[11:51:29] 
+[11:51:29]      sscanf plugin unloaded.    
+[11:51:29] 
+[11:51:29]  ===============================
+[11:51:29] 
+[11:51:29] plugin.mysql: Unloading plugin...
+[11:51:29] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:51:37] 
+[11:51:37] Server Plugins
+[11:51:37] --------------
+[11:51:37]  Loading plugin: sscanf
+[11:51:37] 
+[11:51:37]  ===============================
+[11:51:37] 
+[11:51:37]       sscanf plugin loaded.     
+[11:51:37] 
+[11:51:37]          Version: 2.13.8
+[11:51:37] 
+[11:51:37]    (c) 2022 Alex "Y_Less" Cole  
+[11:51:37] 
+[11:51:37]  ===============================
+[11:51:37] 
+[11:51:37]   Loaded.
+[11:51:37]  Loading plugin: mysql
+[11:51:37]  >> plugin.mysql: R41-4 successfully loaded.
+[11:51:37]   Loaded.
+[11:51:37]  Loaded 2 plugins.
+
+[11:51:37] 
+[11:51:37] Filterscripts
+[11:51:37] ---------------
+[11:51:37]   Loading filterscript 'flymode.amx'...
+[11:51:37]   Loaded 1 filterscripts.
+
+[11:51:37] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:51:37] [DB] Connected to database successfully
+[11:51:37] 
+----------------------------------
+[11:51:37]   Bare Script
+
+[11:51:37] ----------------------------------
+
+[11:51:37] Number of vehicle models: 0
+[11:52:04] [connection] incoming connection: 127.0.0.1:60178 id: 0
+[11:52:04] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[11:52:24] [part] Ivan_Pistolas has left the server (0:1)
+[11:53:41] --- Server Shutting Down.
+[11:53:41] 
+[11:53:41]  ===============================
+[11:53:41] 
+[11:53:41]      sscanf plugin unloaded.    
+[11:53:41] 
+[11:53:41]  ===============================
+[11:53:41] 
+[11:53:41] plugin.mysql: Unloading plugin...
+[11:53:41] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:54:21] 
+[11:54:21] Server Plugins
+[11:54:21] --------------
+[11:54:21]  Loading plugin: sscanf
+[11:54:21] 
+[11:54:21]  ===============================
+[11:54:21] 
+[11:54:21]       sscanf plugin loaded.     
+[11:54:21] 
+[11:54:21]          Version: 2.13.8
+[11:54:21] 
+[11:54:21]    (c) 2022 Alex "Y_Less" Cole  
+[11:54:21] 
+[11:54:21]  ===============================
+[11:54:21] 
+[11:54:21]   Loaded.
+[11:54:21]  Loading plugin: mysql
+[11:54:21]  >> plugin.mysql: R41-4 successfully loaded.
+[11:54:21]   Loaded.
+[11:54:21]  Loaded 2 plugins.
+
+[11:54:21] 
+[11:54:21] Filterscripts
+[11:54:21] ---------------
+[11:54:21]   Loading filterscript 'flymode.amx'...
+[11:54:21]   Loaded 1 filterscripts.
+
+[11:54:21] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:54:21] [DB] Connected to database successfully
+[11:54:21] 
+----------------------------------
+[11:54:21]   Bare Script
+
+[11:54:21] ----------------------------------
+
+[11:54:21] Number of vehicle models: 0
+[11:54:46] [connection] incoming connection: 127.0.0.1:60876 id: 0
+[11:54:47] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[11:55:08] 2270.685302, 1185.446411, 10.820312
+[11:55:09] [part] Ivan_Pistolas has left the server (0:1)
+[12:18:13] [connection] incoming connection: 127.0.0.1:54444 id: 0
+[12:18:13] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[12:18:51] 2389.705810, 706.945434, 10.820312
+[12:18:58] 2396.816894, 690.664123, 11.453125
+[12:18:59] [part] Ivan_Pistolas has left the server (0:1)
+[12:19:58] --- Server Shutting Down.
+[12:19:58] 
+[12:19:58]  ===============================
+[12:19:58] 
+[12:19:58]      sscanf plugin unloaded.    
+[12:19:58] 
+[12:19:58]  ===============================
+[12:19:58] 
+[12:19:58] plugin.mysql: Unloading plugin...
+[12:19:58] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:20:04] 
+[12:20:04] Server Plugins
+[12:20:04] --------------
+[12:20:04]  Loading plugin: sscanf
+[12:20:04] 
+[12:20:04]  ===============================
+[12:20:04] 
+[12:20:04]       sscanf plugin loaded.     
+[12:20:04] 
+[12:20:04]          Version: 2.13.8
+[12:20:04] 
+[12:20:04]    (c) 2022 Alex "Y_Less" Cole  
+[12:20:04] 
+[12:20:04]  ===============================
+[12:20:04] 
+[12:20:04]   Loaded.
+[12:20:04]  Loading plugin: mysql
+[12:20:04]  >> plugin.mysql: R41-4 successfully loaded.
+[12:20:04]   Loaded.
+[12:20:04]  Loaded 2 plugins.
+
+[12:20:04] 
+[12:20:04] Filterscripts
+[12:20:04] ---------------
+[12:20:04]   Loading filterscript 'flymode.amx'...
+[12:20:04]   Loaded 1 filterscripts.
+
+[12:20:04] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:20:04] [DB] Connected to database successfully
+[12:20:04] 
+----------------------------------
+[12:20:04]   Bare Script
+
+[12:20:04] ----------------------------------
+
+[12:20:04] Number of vehicle models: 0
+[12:20:26] [connection] incoming connection: 127.0.0.1:49853 id: 0
+[12:20:26] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[12:20:30] [part] Ivan_Pistolas has left the server (0:1)
+[12:20:48] --- Server Shutting Down.
+[12:20:48] 
+[12:20:48]  ===============================
+[12:20:48] 
+[12:20:48]      sscanf plugin unloaded.    
+[12:20:48] 
+[12:20:48]  ===============================
+[12:20:48] 
+[12:20:48] plugin.mysql: Unloading plugin...
+[12:20:48] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:20:52] 
+[12:20:52] Server Plugins
+[12:20:52] --------------
+[12:20:52]  Loading plugin: sscanf
+[12:20:52] 
+[12:20:52]  ===============================
+[12:20:52] 
+[12:20:52]       sscanf plugin loaded.     
+[12:20:52] 
+[12:20:52]          Version: 2.13.8
+[12:20:52] 
+[12:20:52]    (c) 2022 Alex "Y_Less" Cole  
+[12:20:52] 
+[12:20:52]  ===============================
+[12:20:52] 
+[12:20:52]   Loaded.
+[12:20:52]  Loading plugin: mysql
+[12:20:52]  >> plugin.mysql: R41-4 successfully loaded.
+[12:20:52]   Loaded.
+[12:20:52]  Loaded 2 plugins.
+
+[12:20:52] 
+[12:20:52] Filterscripts
+[12:20:52] ---------------
+[12:20:52]   Loading filterscript 'flymode.amx'...
+[12:20:52]   Loaded 1 filterscripts.
+
+[12:20:52] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:20:52] [DB] Connected to database successfully
+[12:20:52] 
+----------------------------------
+[12:20:52]   Bare Script
+
+[12:20:52] ----------------------------------
+
+[12:20:52] Number of vehicle models: 0
+[12:21:14] [connection] incoming connection: 127.0.0.1:53021 id: 0
+[12:21:15] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[12:21:20] [part] Ivan_Pistolas has left the server (0:1)
+[12:21:33] --- Server Shutting Down.
+[12:21:33] 
+[12:21:33]  ===============================
+[12:21:33] 
+[12:21:33]      sscanf plugin unloaded.    
+[12:21:33] 
+[12:21:33]  ===============================
+[12:21:33] 
+[12:21:33] plugin.mysql: Unloading plugin...
+[12:21:33] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:22:14] 
+[12:22:14] Server Plugins
+[12:22:14] --------------
+[12:22:14]  Loading plugin: sscanf
+[12:22:14] 
+[12:22:14]  ===============================
+[12:22:14] 
+[12:22:14]       sscanf plugin loaded.     
+[12:22:14] 
+[12:22:14]          Version: 2.13.8
+[12:22:14] 
+[12:22:14]    (c) 2022 Alex "Y_Less" Cole  
+[12:22:14] 
+[12:22:14]  ===============================
+[12:22:14] 
+[12:22:14]   Loaded.
+[12:22:14]  Loading plugin: mysql
+[12:22:14]  >> plugin.mysql: R41-4 successfully loaded.
+[12:22:14]   Loaded.
+[12:22:14]  Loaded 2 plugins.
+
+[12:22:14] 
+[12:22:14] Filterscripts
+[12:22:14] ---------------
+[12:22:14]   Loading filterscript 'flymode.amx'...
+[12:22:14]   Loaded 1 filterscripts.
+
+[12:22:14] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:22:14] [DB] Connected to database successfully
+[12:22:14] 
+----------------------------------
+[12:22:14]   Bare Script
+
+[12:22:14] ----------------------------------
+
+[12:22:14] Number of vehicle models: 0
+[12:22:36] [connection] incoming connection: 127.0.0.1:49311 id: 0
+[12:22:36] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[12:22:46] 2397.002685, 690.953247, 11.453125
+[12:22:47] [part] Ivan_Pistolas has left the server (0:1)
+[12:26:30] --- Server Shutting Down.
+[12:26:30] 
+[12:26:30]  ===============================
+[12:26:30] 
+[12:26:30]      sscanf plugin unloaded.    
+[12:26:30] 
+[12:26:30]  ===============================
+[12:26:30] 
+[12:26:30] plugin.mysql: Unloading plugin...
+[12:26:30] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:26:33] 
+[12:26:33] Server Plugins
+[12:26:33] --------------
+[12:26:33]  Loading plugin: sscanf
+[12:26:33] 
+[12:26:33]  ===============================
+[12:26:33] 
+[12:26:33]       sscanf plugin loaded.     
+[12:26:33] 
+[12:26:33]          Version: 2.13.8
+[12:26:33] 
+[12:26:33]    (c) 2022 Alex "Y_Less" Cole  
+[12:26:33] 
+[12:26:33]  ===============================
+[12:26:33] 
+[12:26:33]   Loaded.
+[12:26:33]  Loading plugin: mysql
+[12:26:33]  >> plugin.mysql: R41-4 successfully loaded.
+[12:26:33]   Loaded.
+[12:26:33]  Loaded 2 plugins.
+
+[12:26:33] 
+[12:26:33] Filterscripts
+[12:26:33] ---------------
+[12:26:33]   Loading filterscript 'flymode.amx'...
+[12:26:33]   Loaded 1 filterscripts.
+
+[12:26:33] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:26:33] [DB] Connected to database successfully
+[12:26:33] 
+----------------------------------
+[12:26:33]   Bare Script
+
+[12:26:33] ----------------------------------
+
+[12:26:33] Number of vehicle models: 0
+[12:27:02] [connection] incoming connection: 127.0.0.1:55966 id: 0
+[12:27:03] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[12:27:23] [part] Ivan_Pistolas has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:10:46] 
+[10:10:46] Server Plugins
+[10:10:46] --------------
+[10:10:46]  Loading plugin: sscanf
+[10:10:46] 
+[10:10:46]  ===============================
+[10:10:46] 
+[10:10:46]       sscanf plugin loaded.     
+[10:10:46] 
+[10:10:46]          Version: 2.13.8
+[10:10:46] 
+[10:10:46]    (c) 2022 Alex "Y_Less" Cole  
+[10:10:46] 
+[10:10:46]  ===============================
+[10:10:46] 
+[10:10:46]   Loaded.
+[10:10:46]  Loading plugin: mysql
+[10:10:46]  >> plugin.mysql: R41-4 successfully loaded.
+[10:10:46]   Loaded.
+[10:10:46]  Loaded 2 plugins.
+
+[10:10:46] 
+[10:10:46] Filterscripts
+[10:10:46] ---------------
+[10:10:46]   Loading filterscript 'flymode.amx'...
+[10:10:46]   Loaded 1 filterscripts.
+
+[10:10:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:10:46] [DB] Connected to database successfully
+[10:10:46] 
+----------------------------------
+[10:10:46]   Bare Script
+
+[10:10:46] ----------------------------------
+
+[10:10:46] Number of vehicle models: 0
+[10:11:18] [connection] incoming connection: 127.0.0.1:60577 id: 0
+[10:11:19] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[10:11:31] 2398.329101, 735.730346, 11.460937
+[10:11:39] 2369.104003, 734.160949, 11.460937
+[10:11:44] 2346.595214, 736.034362, 11.468292
+[10:11:53] 2368.543945, 690.240478, 11.460479
+[10:11:58] 2346.515869, 692.366821, 11.460937
+[10:12:05] 2317.124755, 690.350402, 11.460937
+[10:12:13] [part] Ivan_Pistolas has left the server (0:1)
+[10:55:49] --- Server Shutting Down.
+[10:55:49] 
+[10:55:49]  ===============================
+[10:55:49] 
+[10:55:49]      sscanf plugin unloaded.    
+[10:55:49] 
+[10:55:49]  ===============================
+[10:55:49] 
+[10:55:49] plugin.mysql: Unloading plugin...
+[10:55:49] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:55:51] 
+[10:55:51] Server Plugins
+[10:55:51] --------------
+[10:55:51]  Loading plugin: sscanf
+[10:55:51] 
+[10:55:51]  ===============================
+[10:55:51] 
+[10:55:51]       sscanf plugin loaded.     
+[10:55:51] 
+[10:55:51]          Version: 2.13.8
+[10:55:51] 
+[10:55:51]    (c) 2022 Alex "Y_Less" Cole  
+[10:55:51] 
+[10:55:51]  ===============================
+[10:55:51] 
+[10:55:51]   Loaded.
+[10:55:51]  Loading plugin: mysql
+[10:55:51]  >> plugin.mysql: R41-4 successfully loaded.
+[10:55:51]   Loaded.
+[10:55:51]  Loaded 2 plugins.
+
+[10:55:51] 
+[10:55:51] Filterscripts
+[10:55:51] ---------------
+[10:55:51]   Loading filterscript 'flymode.amx'...
+[10:55:52]   Loaded 1 filterscripts.
+
+[10:55:52] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:55:52] [DB] Connected to database successfully
+[10:55:52] 
+----------------------------------
+[10:55:52]   Bare Script
+
+[10:55:52] ----------------------------------
+
+[10:55:52] Number of vehicle models: 0
+[10:56:39] --- Server Shutting Down.
+[10:56:39] 
+[10:56:39]  ===============================
+[10:56:39] 
+[10:56:39]      sscanf plugin unloaded.    
+[10:56:39] 
+[10:56:39]  ===============================
+[10:56:39] 
+[10:56:39] plugin.mysql: Unloading plugin...
+[10:56:39] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:56:41] 
+[10:56:41] Server Plugins
+[10:56:41] --------------
+[10:56:41]  Loading plugin: sscanf
+[10:56:41] 
+[10:56:41]  ===============================
+[10:56:41] 
+[10:56:41]       sscanf plugin loaded.     
+[10:56:41] 
+[10:56:41]          Version: 2.13.8
+[10:56:41] 
+[10:56:41]    (c) 2022 Alex "Y_Less" Cole  
+[10:56:41] 
+[10:56:41]  ===============================
+[10:56:41] 
+[10:56:41]   Loaded.
+[10:56:41]  Loading plugin: mysql
+[10:56:41]  >> plugin.mysql: R41-4 successfully loaded.
+[10:56:41]   Loaded.
+[10:56:41]  Loaded 2 plugins.
+
+[10:56:41] 
+[10:56:41] Filterscripts
+[10:56:41] ---------------
+[10:56:41]   Loading filterscript 'flymode.amx'...
+[10:56:42]   Loaded 1 filterscripts.
+
+[10:56:42] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:56:42] [DB] Connected to database successfully
+[10:56:42] 
+----------------------------------
+[10:56:42]   Bare Script
+
+[10:56:42] ----------------------------------
+
+[10:56:42] Number of vehicle models: 0
+[10:56:56] --- Server Shutting Down.
+[10:56:56] 
+[10:56:56]  ===============================
+[10:56:56] 
+[10:56:56]      sscanf plugin unloaded.    
+[10:56:56] 
+[10:56:56]  ===============================
+[10:56:56] 
+[10:56:56] plugin.mysql: Unloading plugin...
+[10:56:56] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:58:02] 
+[10:58:02] Server Plugins
+[10:58:02] --------------
+[10:58:02]  Loading plugin: sscanf
+[10:58:02] 
+[10:58:02]  ===============================
+[10:58:02] 
+[10:58:02]       sscanf plugin loaded.     
+[10:58:02] 
+[10:58:02]          Version: 2.13.8
+[10:58:02] 
+[10:58:02]    (c) 2022 Alex "Y_Less" Cole  
+[10:58:02] 
+[10:58:02]  ===============================
+[10:58:02] 
+[10:58:02]   Loaded.
+[10:58:02]  Loading plugin: mysql
+[10:58:02]  >> plugin.mysql: R41-4 successfully loaded.
+[10:58:02]   Loaded.
+[10:58:02]  Loaded 2 plugins.
+
+[10:58:02] 
+[10:58:02] Filterscripts
+[10:58:02] ---------------
+[10:58:02]   Loading filterscript 'flymode.amx'...
+[10:58:02]   Loaded 1 filterscripts.
+
+[10:58:02] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:58:02] [DB] Connected to database successfully
+[10:58:02] SELECT id, x, y, z, price, name, description, owner FROM houses
+[10:58:02] 
+----------------------------------
+[10:58:02]   Bare Script
+
+[10:58:02] ----------------------------------
+
+[10:58:02] Number of vehicle models: 0
+[11:00:47] --- Server Shutting Down.
+[11:00:47] 
+[11:00:47]  ===============================
+[11:00:47] 
+[11:00:47]      sscanf plugin unloaded.    
+[11:00:47] 
+[11:00:47]  ===============================
+[11:00:47] 
+[11:00:47] plugin.mysql: Unloading plugin...
+[11:00:47] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:00:52] 
+[11:00:52] Server Plugins
+[11:00:52] --------------
+[11:00:52]  Loading plugin: sscanf
+[11:00:52] 
+[11:00:52]  ===============================
+[11:00:52] 
+[11:00:52]       sscanf plugin loaded.     
+[11:00:52] 
+[11:00:52]          Version: 2.13.8
+[11:00:52] 
+[11:00:52]    (c) 2022 Alex "Y_Less" Cole  
+[11:00:52] 
+[11:00:52]  ===============================
+[11:00:52] 
+[11:00:52]   Loaded.
+[11:00:52]  Loading plugin: mysql
+[11:00:52]  >> plugin.mysql: R41-4 successfully loaded.
+[11:00:52]   Loaded.
+[11:00:52]  Loaded 2 plugins.
+
+[11:00:52] 
+[11:00:52] Filterscripts
+[11:00:52] ---------------
+[11:00:52]   Loading filterscript 'flymode.amx'...
+[11:00:52]   Loaded 1 filterscripts.
+
+[11:00:52] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:00:52] [DB] Connected to database successfully
+[11:00:52] SELECT id, x, y, z, price, name, description, owner FROM houses
+[11:00:52] 
+----------------------------------
+[11:00:52]   Bare Script
+
+[11:00:52] ----------------------------------
+
+[11:00:52] Number of vehicle models: 0
+[11:01:27] --- Server Shutting Down.
+[11:01:27] 
+[11:01:27]  ===============================
+[11:01:27] 
+[11:01:27]      sscanf plugin unloaded.    
+[11:01:27] 
+[11:01:27]  ===============================
+[11:01:27] 
+[11:01:27] plugin.mysql: Unloading plugin...
+[11:01:27] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:02:42] 
+[11:02:42] Server Plugins
+[11:02:42] --------------
+[11:02:42]  Loading plugin: sscanf
+[11:02:42] 
+[11:02:42]  ===============================
+[11:02:42] 
+[11:02:42]       sscanf plugin loaded.     
+[11:02:42] 
+[11:02:42]          Version: 2.13.8
+[11:02:42] 
+[11:02:42]    (c) 2022 Alex "Y_Less" Cole  
+[11:02:42] 
+[11:02:42]  ===============================
+[11:02:42] 
+[11:02:42]   Loaded.
+[11:02:42]  Loading plugin: mysql
+[11:02:42]  >> plugin.mysql: R41-4 successfully loaded.
+[11:02:42]   Loaded.
+[11:02:42]  Loaded 2 plugins.
+
+[11:02:42] 
+[11:02:42] Filterscripts
+[11:02:42] ---------------
+[11:02:42]   Loading filterscript 'flymode.amx'...
+[11:02:42]   Loaded 1 filterscripts.
+
+[11:02:42] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:02:42] [DB] Connected to database successfully
+[11:02:42] SELECT id, x, y, z, price, name, description, owner FROM houses
+[11:02:42] 
+----------------------------------
+[11:02:42]   Bare Script
+
+[11:02:42] ----------------------------------
+
+[11:02:42] Number of vehicle models: 0
+[11:04:42] --- Server Shutting Down.
+[11:04:42] 
+[11:04:42]  ===============================
+[11:04:42] 
+[11:04:42]      sscanf plugin unloaded.    
+[11:04:42] 
+[11:04:42]  ===============================
+[11:04:42] 
+[11:04:42] plugin.mysql: Unloading plugin...
+[11:04:42] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:04:43] 
+[11:04:43] Server Plugins
+[11:04:43] --------------
+[11:04:43]  Loading plugin: sscanf
+[11:04:43] 
+[11:04:43]  ===============================
+[11:04:43] 
+[11:04:43]       sscanf plugin loaded.     
+[11:04:43] 
+[11:04:43]          Version: 2.13.8
+[11:04:43] 
+[11:04:43]    (c) 2022 Alex "Y_Less" Cole  
+[11:04:43] 
+[11:04:43]  ===============================
+[11:04:43] 
+[11:04:43]   Loaded.
+[11:04:43]  Loading plugin: mysql
+[11:04:43]  >> plugin.mysql: R41-4 successfully loaded.
+[11:04:43]   Loaded.
+[11:04:43]  Loaded 2 plugins.
+
+[11:04:43] 
+[11:04:43] Filterscripts
+[11:04:43] ---------------
+[11:04:43]   Loading filterscript 'flymode.amx'...
+[11:04:43]   Loaded 1 filterscripts.
+
+[11:04:43] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:04:43] [DB] Connected to database successfully
+[11:04:43] SELECT id, x, y, z, price, name, description, owner FROM houses
+[11:04:43] 
+----------------------------------
+[11:04:43]   Bare Script
+
+[11:04:43] ----------------------------------
+
+[11:04:43] Number of vehicle models: 0
+[11:04:43] --- Server Shutting Down.
+[11:04:43] 
+[11:04:43]  ===============================
+[11:04:43] 
+[11:04:43]      sscanf plugin unloaded.    
+[11:04:43] 
+[11:04:43]  ===============================
+[11:04:43] 
+[11:04:43] plugin.mysql: Unloading plugin...
+[11:04:43] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:04:47] 
+[11:04:47] Server Plugins
+[11:04:47] --------------
+[11:04:47]  Loading plugin: sscanf
+[11:04:47] 
+[11:04:47]  ===============================
+[11:04:47] 
+[11:04:47]       sscanf plugin loaded.     
+[11:04:47] 
+[11:04:47]          Version: 2.13.8
+[11:04:47] 
+[11:04:47]    (c) 2022 Alex "Y_Less" Cole  
+[11:04:47] 
+[11:04:47]  ===============================
+[11:04:47] 
+[11:04:47]   Loaded.
+[11:04:47]  Loading plugin: mysql
+[11:04:47]  >> plugin.mysql: R41-4 successfully loaded.
+[11:04:47]   Loaded.
+[11:04:47]  Loaded 2 plugins.
+
+[11:04:47] 
+[11:04:47] Filterscripts
+[11:04:47] ---------------
+[11:04:47]   Loading filterscript 'flymode.amx'...
+[11:04:47]   Loaded 1 filterscripts.
+
+[11:04:47] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:04:47] [DB] Connected to database successfully
+[11:04:47] SELECT id, x, y, z, price, name, description, owner FROM houses
+[11:04:47] 
+----------------------------------
+[11:04:47]   Bare Script
+
+[11:04:47] ----------------------------------
+
+[11:04:47] Number of vehicle models: 0
+[11:10:14] --- Server Shutting Down.
+[11:10:14] 
+[11:10:14]  ===============================
+[11:10:14] 
+[11:10:14]      sscanf plugin unloaded.    
+[11:10:14] 
+[11:10:14]  ===============================
+[11:10:14] 
+[11:10:14] plugin.mysql: Unloading plugin...
+[11:10:14] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:10:17] 
+[11:10:17] Server Plugins
+[11:10:17] --------------
+[11:10:17]  Loading plugin: sscanf
+[11:10:17] 
+[11:10:17]  ===============================
+[11:10:17] 
+[11:10:17]       sscanf plugin loaded.     
+[11:10:17] 
+[11:10:17]          Version: 2.13.8
+[11:10:17] 
+[11:10:17]    (c) 2022 Alex "Y_Less" Cole  
+[11:10:17] 
+[11:10:17]  ===============================
+[11:10:17] 
+[11:10:17]   Loaded.
+[11:10:17]  Loading plugin: mysql
+[11:10:17]  >> plugin.mysql: R41-4 successfully loaded.
+[11:10:17]   Loaded.
+[11:10:17]  Loaded 2 plugins.
+
+[11:10:17] 
+[11:10:17] Filterscripts
+[11:10:17] ---------------
+[11:10:17]   Loading filterscript 'flymode.amx'...
+[11:10:17]   Loaded 1 filterscripts.
+
+[11:10:17] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:10:17] [DB] Connected to database successfully
+[11:10:17] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:10:17] OUT QUERY
+[11:10:17] 
+----------------------------------
+[11:10:17]   Bare Script
+
+[11:10:17] ----------------------------------
+
+[11:10:17] Number of vehicle models: 0
+[11:10:45] [connection] incoming connection: 127.0.0.1:58505 id: 0
+[11:10:45] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[11:10:49] [part] Ivan_Pistolas has left the server (0:1)
+[11:11:03] --- Server Shutting Down.
+[11:11:03] 
+[11:11:03]  ===============================
+[11:11:03] 
+[11:11:03]      sscanf plugin unloaded.    
+[11:11:03] 
+[11:11:03]  ===============================
+[11:11:03] 
+[11:11:03] plugin.mysql: Unloading plugin...
+[11:11:03] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:11:05] 
+[11:11:05] Server Plugins
+[11:11:05] --------------
+[11:11:05]  Loading plugin: sscanf
+[11:11:05] 
+[11:11:05]  ===============================
+[11:11:05] 
+[11:11:05]       sscanf plugin loaded.     
+[11:11:05] 
+[11:11:05]          Version: 2.13.8
+[11:11:05] 
+[11:11:05]    (c) 2022 Alex "Y_Less" Cole  
+[11:11:05] 
+[11:11:05]  ===============================
+[11:11:05] 
+[11:11:05]   Loaded.
+[11:11:05]  Loading plugin: mysql
+[11:11:05]  >> plugin.mysql: R41-4 successfully loaded.
+[11:11:05]   Loaded.
+[11:11:05]  Loaded 2 plugins.
+
+[11:11:05] 
+[11:11:05] Filterscripts
+[11:11:05] ---------------
+[11:11:05]   Loading filterscript 'flymode.amx'...
+[11:11:05]   Loaded 1 filterscripts.
+
+[11:11:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:11:05] [DB] Connected to database successfully
+[11:11:05] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:11:05] OUT QUERY
+[11:11:05] 
+----------------------------------
+[11:11:05]   Bare Script
+
+[11:11:05] ----------------------------------
+
+[11:11:05] Number of vehicle models: 0
+[11:11:39] [connection] incoming connection: 127.0.0.1:59444 id: 0
+[11:11:40] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[11:11:42] [part] Ivan_Pistolas has left the server (0:1)
+[11:12:02] --- Server Shutting Down.
+[11:12:02] 
+[11:12:02]  ===============================
+[11:12:02] 
+[11:12:02]      sscanf plugin unloaded.    
+[11:12:02] 
+[11:12:02]  ===============================
+[11:12:02] 
+[11:12:02] plugin.mysql: Unloading plugin...
+[11:12:02] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:12:06] 
+[11:12:06] Server Plugins
+[11:12:06] --------------
+[11:12:06]  Loading plugin: sscanf
+[11:12:06] 
+[11:12:06]  ===============================
+[11:12:06] 
+[11:12:06]       sscanf plugin loaded.     
+[11:12:06] 
+[11:12:06]          Version: 2.13.8
+[11:12:06] 
+[11:12:06]    (c) 2022 Alex "Y_Less" Cole  
+[11:12:06] 
+[11:12:06]  ===============================
+[11:12:06] 
+[11:12:06]   Loaded.
+[11:12:06]  Loading plugin: mysql
+[11:12:06]  >> plugin.mysql: R41-4 successfully loaded.
+[11:12:06]   Loaded.
+[11:12:06]  Loaded 2 plugins.
+
+[11:12:06] 
+[11:12:06] Filterscripts
+[11:12:06] ---------------
+[11:12:06]   Loading filterscript 'flymode.amx'...
+[11:12:07]   Loaded 1 filterscripts.
+
+[11:12:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:12:07] [DB] Connected to database successfully
+[11:12:07] SELECT id FROM houses;
+[11:12:07] OUT QUERY
+[11:12:07] 
+----------------------------------
+[11:12:07]   Bare Script
+
+[11:12:07] ----------------------------------
+
+[11:12:07] Number of vehicle models: 0
+[11:12:10] --- Server Shutting Down.
+[11:12:10] 
+[11:12:10]  ===============================
+[11:12:10] 
+[11:12:10]      sscanf plugin unloaded.    
+[11:12:10] 
+[11:12:10]  ===============================
+[11:12:10] 
+[11:12:10] plugin.mysql: Unloading plugin...
+[11:12:10] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:13:10] 
+[11:13:10] Server Plugins
+[11:13:10] --------------
+[11:13:10]  Loading plugin: sscanf
+[11:13:10] 
+[11:13:10]  ===============================
+[11:13:10] 
+[11:13:10]       sscanf plugin loaded.     
+[11:13:10] 
+[11:13:10]          Version: 2.13.8
+[11:13:10] 
+[11:13:10]    (c) 2022 Alex "Y_Less" Cole  
+[11:13:10] 
+[11:13:10]  ===============================
+[11:13:10] 
+[11:13:10]   Loaded.
+[11:13:10]  Loading plugin: mysql
+[11:13:10]  >> plugin.mysql: R41-4 successfully loaded.
+[11:13:10]   Loaded.
+[11:13:10]  Loaded 2 plugins.
+
+[11:13:10] 
+[11:13:10] Filterscripts
+[11:13:10] ---------------
+[11:13:10]   Loading filterscript 'flymode.amx'...
+[11:13:10]   Loaded 1 filterscripts.
+
+[11:13:10] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:13:10] [DB] Connected to database successfully
+[11:13:10] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:13:10] OUT QUERY
+[11:13:10] 
+----------------------------------
+[11:13:10]   Bare Script
+
+[11:13:10] ----------------------------------
+
+[11:13:10] Number of vehicle models: 0
+[11:17:30] --- Server Shutting Down.
+[11:17:30] 
+[11:17:30]  ===============================
+[11:17:30] 
+[11:17:30]      sscanf plugin unloaded.    
+[11:17:30] 
+[11:17:30]  ===============================
+[11:17:30] 
+[11:17:30] plugin.mysql: Unloading plugin...
+[11:17:30] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:17:32] 
+[11:17:32] Server Plugins
+[11:17:32] --------------
+[11:17:32]  Loading plugin: sscanf
+[11:17:32] 
+[11:17:32]  ===============================
+[11:17:32] 
+[11:17:32]       sscanf plugin loaded.     
+[11:17:32] 
+[11:17:32]          Version: 2.13.8
+[11:17:32] 
+[11:17:32]    (c) 2022 Alex "Y_Less" Cole  
+[11:17:32] 
+[11:17:32]  ===============================
+[11:17:32] 
+[11:17:32]   Loaded.
+[11:17:32]  Loading plugin: mysql
+[11:17:32]  >> plugin.mysql: R41-4 successfully loaded.
+[11:17:32]   Loaded.
+[11:17:32]  Loaded 2 plugins.
+
+[11:17:32] 
+[11:17:32] Filterscripts
+[11:17:32] ---------------
+[11:17:32]   Loading filterscript 'flymode.amx'...
+[11:17:32]   Loaded 1 filterscripts.
+
+[11:17:32] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:17:32] [DB] Connected to database successfully
+[11:17:32] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:17:32] OUT QUERY
+[11:17:32] 
+----------------------------------
+[11:17:32]   Bare Script
+
+[11:17:32] ----------------------------------
+
+[11:17:32] Number of vehicle models: 0
+[11:17:40] --- Server Shutting Down.
+[11:17:40] 
+[11:17:40]  ===============================
+[11:17:40] 
+[11:17:40]      sscanf plugin unloaded.    
+[11:17:40] 
+[11:17:40]  ===============================
+[11:17:40] 
+[11:17:40] plugin.mysql: Unloading plugin...
+[11:17:40] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:17:44] 
+[11:17:44] Server Plugins
+[11:17:44] --------------
+[11:17:44]  Loading plugin: sscanf
+[11:17:44] 
+[11:17:44]  ===============================
+[11:17:44] 
+[11:17:44]       sscanf plugin loaded.     
+[11:17:44] 
+[11:17:44]          Version: 2.13.8
+[11:17:44] 
+[11:17:44]    (c) 2022 Alex "Y_Less" Cole  
+[11:17:44] 
+[11:17:44]  ===============================
+[11:17:44] 
+[11:17:44]   Loaded.
+[11:17:44]  Loading plugin: mysql
+[11:17:44]  >> plugin.mysql: R41-4 successfully loaded.
+[11:17:44]   Loaded.
+[11:17:44]  Loaded 2 plugins.
+
+[11:17:44] 
+[11:17:44] Filterscripts
+[11:17:44] ---------------
+[11:17:44]   Loading filterscript 'flymode.amx'...
+[11:17:44]   Loaded 1 filterscripts.
+
+[11:17:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:17:44] [DB] Connected to database successfully
+[11:17:44] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:17:44] 
+----------------------------------
+[11:17:44]   Bare Script
+
+[11:17:44] ----------------------------------
+
+[11:17:44] Number of vehicle models: 0
+[11:18:09] --- Server Shutting Down.
+[11:18:09] 
+[11:18:09]  ===============================
+[11:18:09] 
+[11:18:09]      sscanf plugin unloaded.    
+[11:18:09] 
+[11:18:09]  ===============================
+[11:18:09] 
+[11:18:09] plugin.mysql: Unloading plugin...
+[11:18:09] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:18:12] 
+[11:18:12] Server Plugins
+[11:18:12] --------------
+[11:18:12]  Loading plugin: sscanf
+[11:18:12] 
+[11:18:12]  ===============================
+[11:18:12] 
+[11:18:12]       sscanf plugin loaded.     
+[11:18:12] 
+[11:18:12]          Version: 2.13.8
+[11:18:12] 
+[11:18:12]    (c) 2022 Alex "Y_Less" Cole  
+[11:18:12] 
+[11:18:12]  ===============================
+[11:18:12] 
+[11:18:12]   Loaded.
+[11:18:12]  Loading plugin: mysql
+[11:18:12]  >> plugin.mysql: R41-4 successfully loaded.
+[11:18:12]   Loaded.
+[11:18:12]  Loaded 2 plugins.
+
+[11:18:12] 
+[11:18:12] Filterscripts
+[11:18:12] ---------------
+[11:18:12]   Loading filterscript 'flymode.amx'...
+[11:18:12]   Loaded 1 filterscripts.
+
+[11:18:12] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:18:12] [DB] Connected to database successfully
+[11:18:12] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:18:12] BEGIN ROWS
+[11:18:12] END ROWS
+[11:18:12] 
+----------------------------------
+[11:18:12]   Bare Script
+
+[11:18:12] ----------------------------------
+
+[11:18:12] Number of vehicle models: 0
+[11:18:28] --- Server Shutting Down.
+[11:18:28] 
+[11:18:28]  ===============================
+[11:18:28] 
+[11:18:28]      sscanf plugin unloaded.    
+[11:18:28] 
+[11:18:28]  ===============================
+[11:18:28] 
+[11:18:28] plugin.mysql: Unloading plugin...
+[11:18:28] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:18:30] 
+[11:18:30] Server Plugins
+[11:18:30] --------------
+[11:18:30]  Loading plugin: sscanf
+[11:18:30] 
+[11:18:30]  ===============================
+[11:18:30] 
+[11:18:30]       sscanf plugin loaded.     
+[11:18:30] 
+[11:18:30]          Version: 2.13.8
+[11:18:30] 
+[11:18:30]    (c) 2022 Alex "Y_Less" Cole  
+[11:18:30] 
+[11:18:30]  ===============================
+[11:18:30] 
+[11:18:30]   Loaded.
+[11:18:30]  Loading plugin: mysql
+[11:18:30]  >> plugin.mysql: R41-4 successfully loaded.
+[11:18:30]   Loaded.
+[11:18:30]  Loaded 2 plugins.
+
+[11:18:30] 
+[11:18:30] Filterscripts
+[11:18:30] ---------------
+[11:18:30]   Loading filterscript 'flymode.amx'...
+[11:18:30]   Loaded 1 filterscripts.
+
+[11:18:30] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:18:30] [DB] Connected to database successfully
+[11:18:30] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:18:30] BEGIN ROWS 0
+[11:18:30] END ROWS
+[11:18:30] 
+----------------------------------
+[11:18:30]   Bare Script
+
+[11:18:30] ----------------------------------
+
+[11:18:30] Number of vehicle models: 0
+[11:18:46] --- Server Shutting Down.
+[11:18:46] 
+[11:18:46]  ===============================
+[11:18:46] 
+[11:18:46]      sscanf plugin unloaded.    
+[11:18:46] 
+[11:18:46]  ===============================
+[11:18:46] 
+[11:18:46] plugin.mysql: Unloading plugin...
+[11:18:46] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:18:48] 
+[11:18:48] Server Plugins
+[11:18:48] --------------
+[11:18:48]  Loading plugin: sscanf
+[11:18:48] 
+[11:18:48]  ===============================
+[11:18:48] 
+[11:18:48]       sscanf plugin loaded.     
+[11:18:48] 
+[11:18:48]          Version: 2.13.8
+[11:18:48] 
+[11:18:48]    (c) 2022 Alex "Y_Less" Cole  
+[11:18:48] 
+[11:18:48]  ===============================
+[11:18:48] 
+[11:18:48]   Loaded.
+[11:18:48]  Loading plugin: mysql
+[11:18:48]  >> plugin.mysql: R41-4 successfully loaded.
+[11:18:48]   Loaded.
+[11:18:48]  Loaded 2 plugins.
+
+[11:18:48] 
+[11:18:48] Filterscripts
+[11:18:48] ---------------
+[11:18:48]   Loading filterscript 'flymode.amx'...
+[11:18:48]   Loaded 1 filterscripts.
+
+[11:18:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:18:48] [DB] Connected to database successfully
+[11:18:48] SELECT * FROM houses;
+[11:18:48] BEGIN ROWS 0
+[11:18:48] END ROWS
+[11:18:48] 
+----------------------------------
+[11:18:48]   Bare Script
+
+[11:18:48] ----------------------------------
+
+[11:18:48] Number of vehicle models: 0
+[11:18:55] --- Server Shutting Down.
+[11:18:55] 
+[11:18:55]  ===============================
+[11:18:55] 
+[11:18:55]      sscanf plugin unloaded.    
+[11:18:55] 
+[11:18:55]  ===============================
+[11:18:55] 
+[11:18:55] plugin.mysql: Unloading plugin...
+[11:18:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:18:57] 
+[11:18:57] Server Plugins
+[11:18:57] --------------
+[11:18:57]  Loading plugin: sscanf
+[11:18:57] 
+[11:18:57]  ===============================
+[11:18:57] 
+[11:18:57]       sscanf plugin loaded.     
+[11:18:57] 
+[11:18:57]          Version: 2.13.8
+[11:18:57] 
+[11:18:57]    (c) 2022 Alex "Y_Less" Cole  
+[11:18:57] 
+[11:18:57]  ===============================
+[11:18:57] 
+[11:18:57]   Loaded.
+[11:18:57]  Loading plugin: mysql
+[11:18:57]  >> plugin.mysql: R41-4 successfully loaded.
+[11:18:57]   Loaded.
+[11:18:57]  Loaded 2 plugins.
+
+[11:18:57] 
+[11:18:57] Filterscripts
+[11:18:57] ---------------
+[11:18:57]   Loading filterscript 'flymode.amx'...
+[11:18:57]   Loaded 1 filterscripts.
+
+[11:18:57] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:18:57] [DB] Connected to database successfully
+[11:18:57] SELECT * FROM rp.houses;
+[11:18:57] BEGIN ROWS 0
+[11:18:57] END ROWS
+[11:18:57] 
+----------------------------------
+[11:18:57]   Bare Script
+
+[11:18:57] ----------------------------------
+
+[11:18:57] Number of vehicle models: 0
+[11:19:03] --- Server Shutting Down.
+[11:19:03] 
+[11:19:03]  ===============================
+[11:19:03] 
+[11:19:03]      sscanf plugin unloaded.    
+[11:19:03] 
+[11:19:03]  ===============================
+[11:19:03] 
+[11:19:03] plugin.mysql: Unloading plugin...
+[11:19:03] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:19:05] 
+[11:19:05] Server Plugins
+[11:19:05] --------------
+[11:19:05]  Loading plugin: sscanf
+[11:19:05] 
+[11:19:05]  ===============================
+[11:19:05] 
+[11:19:05]       sscanf plugin loaded.     
+[11:19:05] 
+[11:19:05]          Version: 2.13.8
+[11:19:05] 
+[11:19:05]    (c) 2022 Alex "Y_Less" Cole  
+[11:19:05] 
+[11:19:05]  ===============================
+[11:19:05] 
+[11:19:05]   Loaded.
+[11:19:05]  Loading plugin: mysql
+[11:19:05]  >> plugin.mysql: R41-4 successfully loaded.
+[11:19:05]   Loaded.
+[11:19:05]  Loaded 2 plugins.
+
+[11:19:05] 
+[11:19:05] Filterscripts
+[11:19:05] ---------------
+[11:19:05]   Loading filterscript 'flymode.amx'...
+[11:19:05]   Loaded 1 filterscripts.
+
+[11:19:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:19:05] [DB] Connected to database successfully
+[11:19:05] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:19:05] BEGIN ROWS 0
+[11:19:05] END ROWS
+[11:19:05] 
+----------------------------------
+[11:19:05]   Bare Script
+
+[11:19:05] ----------------------------------
+
+[11:19:05] Number of vehicle models: 0
+[11:19:29] --- Server Shutting Down.
+[11:19:29] 
+[11:19:29]  ===============================
+[11:19:29] 
+[11:19:29]      sscanf plugin unloaded.    
+[11:19:29] 
+[11:19:29]  ===============================
+[11:19:29] 
+[11:19:29] plugin.mysql: Unloading plugin...
+[11:19:29] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:19:31] 
+[11:19:31] Server Plugins
+[11:19:31] --------------
+[11:19:31]  Loading plugin: sscanf
+[11:19:31] 
+[11:19:31]  ===============================
+[11:19:31] 
+[11:19:31]       sscanf plugin loaded.     
+[11:19:31] 
+[11:19:31]          Version: 2.13.8
+[11:19:31] 
+[11:19:31]    (c) 2022 Alex "Y_Less" Cole  
+[11:19:31] 
+[11:19:31]  ===============================
+[11:19:31] 
+[11:19:31]   Loaded.
+[11:19:31]  Loading plugin: mysql
+[11:19:31]  >> plugin.mysql: R41-4 successfully loaded.
+[11:19:31]   Loaded.
+[11:19:31]  Loaded 2 plugins.
+
+[11:19:31] 
+[11:19:31] Filterscripts
+[11:19:31] ---------------
+[11:19:31]   Loading filterscript 'flymode.amx'...
+[11:19:31]   Loaded 1 filterscripts.
+
+[11:19:31] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:19:31] [DB] Connected to database successfully
+[11:19:31] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:19:31] BEGIN ROWS 0
+[11:19:31] END ROWS
+[11:19:31] 
+----------------------------------
+[11:19:31]   Bare Script
+
+[11:19:31] ----------------------------------
+
+[11:19:31] Number of vehicle models: 0
+[11:20:08] --- Server Shutting Down.
+[11:20:08] 
+[11:20:08]  ===============================
+[11:20:08] 
+[11:20:08]      sscanf plugin unloaded.    
+[11:20:08] 
+[11:20:08]  ===============================
+[11:20:08] 
+[11:20:08] plugin.mysql: Unloading plugin...
+[11:20:08] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:20:12] 
+[11:20:12] Server Plugins
+[11:20:12] --------------
+[11:20:12]  Loading plugin: sscanf
+[11:20:12] 
+[11:20:12]  ===============================
+[11:20:12] 
+[11:20:12]       sscanf plugin loaded.     
+[11:20:12] 
+[11:20:12]          Version: 2.13.8
+[11:20:12] 
+[11:20:12]    (c) 2022 Alex "Y_Less" Cole  
+[11:20:12] 
+[11:20:12]  ===============================
+[11:20:12] 
+[11:20:12]   Loaded.
+[11:20:12]  Loading plugin: mysql
+[11:20:12]  >> plugin.mysql: R41-4 successfully loaded.
+[11:20:12]   Loaded.
+[11:20:12]  Loaded 2 plugins.
+
+[11:20:12] 
+[11:20:12] Filterscripts
+[11:20:12] ---------------
+[11:20:12]   Loading filterscript 'flymode.amx'...
+[11:20:12]   Loaded 1 filterscripts.
+
+[11:20:12] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:20:12] [DB] Connected to database successfully
+[11:20:12] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:20:12] 
+----------------------------------
+[11:20:12]   Bare Script
+
+[11:20:12] ----------------------------------
+
+[11:20:12] Number of vehicle models: 0
+[11:21:47] --- Server Shutting Down.
+[11:21:47] 
+[11:21:47]  ===============================
+[11:21:47] 
+[11:21:47]      sscanf plugin unloaded.    
+[11:21:47] 
+[11:21:47]  ===============================
+[11:21:47] 
+[11:21:47] plugin.mysql: Unloading plugin...
+[11:21:47] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:21:49] 
+[11:21:49] Server Plugins
+[11:21:49] --------------
+[11:21:49]  Loading plugin: sscanf
+[11:21:49] 
+[11:21:49]  ===============================
+[11:21:49] 
+[11:21:49]       sscanf plugin loaded.     
+[11:21:49] 
+[11:21:49]          Version: 2.13.8
+[11:21:49] 
+[11:21:49]    (c) 2022 Alex "Y_Less" Cole  
+[11:21:49] 
+[11:21:49]  ===============================
+[11:21:49] 
+[11:21:49]   Loaded.
+[11:21:49]  Loading plugin: mysql
+[11:21:49]  >> plugin.mysql: R41-4 successfully loaded.
+[11:21:49]   Loaded.
+[11:21:49]  Loaded 2 plugins.
+
+[11:21:50] 
+[11:21:50] Filterscripts
+[11:21:50] ---------------
+[11:21:50]   Loading filterscript 'flymode.amx'...
+[11:21:50]   Loaded 1 filterscripts.
+
+[11:21:50] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:21:50] [DB] Connected to database successfully
+[11:21:50] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:21:50] 
+----------------------------------
+[11:21:50]   Bare Script
+
+[11:21:50] ----------------------------------
+
+[11:21:50] Number of vehicle models: 0
+[11:30:48] --- Server Shutting Down.
+[11:30:48] 
+[11:30:48]  ===============================
+[11:30:48] 
+[11:30:48]      sscanf plugin unloaded.    
+[11:30:48] 
+[11:30:48]  ===============================
+[11:30:48] 
+[11:30:48] plugin.mysql: Unloading plugin...
+[11:30:48] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:31:00] 
+[11:31:00] Server Plugins
+[11:31:00] --------------
+[11:31:00]  Loading plugin: sscanf
+[11:31:00] 
+[11:31:00]  ===============================
+[11:31:00] 
+[11:31:00]       sscanf plugin loaded.     
+[11:31:00] 
+[11:31:00]          Version: 2.13.8
+[11:31:00] 
+[11:31:00]    (c) 2022 Alex "Y_Less" Cole  
+[11:31:00] 
+[11:31:00]  ===============================
+[11:31:00] 
+[11:31:00]   Loaded.
+[11:31:00]  Loading plugin: mysql
+[11:31:00]  >> plugin.mysql: R41-4 successfully loaded.
+[11:31:00]   Loaded.
+[11:31:00]  Loaded 2 plugins.
+
+[11:31:00] 
+[11:31:00] Filterscripts
+[11:31:00] ---------------
+[11:31:00]   Loading filterscript 'flymode.amx'...
+[11:31:01]   Loaded 1 filterscripts.
+
+[11:31:01] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:31:01] [DB] Connected to database successfully
+[11:31:01] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[11:31:01] 
+----------------------------------
+[11:31:01]   Bare Script
+
+[11:31:01] ----------------------------------
+
+[11:31:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:05:25] 
+[17:05:25] Server Plugins
+[17:05:25] --------------
+[17:05:25]  Loading plugin: sscanf
+[17:05:25] 
+[17:05:25]  ===============================
+[17:05:25] 
+[17:05:25]       sscanf plugin loaded.     
+[17:05:25] 
+[17:05:25]          Version: 2.13.8
+[17:05:25] 
+[17:05:25]    (c) 2022 Alex "Y_Less" Cole  
+[17:05:25] 
+[17:05:25]  ===============================
+[17:05:25] 
+[17:05:25]   Loaded.
+[17:05:25]  Loading plugin: mysql
+[17:05:25]  >> plugin.mysql: R41-4 successfully loaded.
+[17:05:25]   Loaded.
+[17:05:25]  Loaded 2 plugins.
+
+[17:05:25] 
+[17:05:25] Filterscripts
+[17:05:25] ---------------
+[17:05:25]   Loading filterscript 'flymode.amx'...
+[17:05:25]   Loaded 1 filterscripts.
+
+[17:05:25] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:05:26] [DB] Connected to database successfully
+[17:05:26] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:05:26] 
+----------------------------------
+[17:05:26]   Bare Script
+
+[17:05:26] ----------------------------------
+
+[17:05:26] Number of vehicle models: 0
+[17:06:49] --- Server Shutting Down.
+[17:06:49] 
+[17:06:49]  ===============================
+[17:06:49] 
+[17:06:49]      sscanf plugin unloaded.    
+[17:06:49] 
+[17:06:49]  ===============================
+[17:06:49] 
+[17:06:49] plugin.mysql: Unloading plugin...
+[17:06:49] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:06:53] 
+[17:06:53] Server Plugins
+[17:06:53] --------------
+[17:06:53]  Loading plugin: sscanf
+[17:06:53] 
+[17:06:53]  ===============================
+[17:06:53] 
+[17:06:53]       sscanf plugin loaded.     
+[17:06:53] 
+[17:06:53]          Version: 2.13.8
+[17:06:53] 
+[17:06:53]    (c) 2022 Alex "Y_Less" Cole  
+[17:06:53] 
+[17:06:53]  ===============================
+[17:06:53] 
+[17:06:53]   Loaded.
+[17:06:53]  Loading plugin: mysql
+[17:06:53]  >> plugin.mysql: R41-4 successfully loaded.
+[17:06:53]   Loaded.
+[17:06:53]  Loaded 2 plugins.
+
+[17:06:54] 
+[17:06:54] Filterscripts
+[17:06:54] ---------------
+[17:06:54]   Loading filterscript 'flymode.amx'...
+[17:06:54]   Loaded 1 filterscripts.
+
+[17:06:54] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:06:54] [DB] Connected to database successfully
+[17:06:54] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:06:54] Houses query executed
+[17:06:54] 
+----------------------------------
+[17:06:54]   Bare Script
+
+[17:06:54] ----------------------------------
+
+[17:06:54] Number of vehicle models: 0
+[17:07:16] --- Server Shutting Down.
+[17:07:16] 
+[17:07:16]  ===============================
+[17:07:16] 
+[17:07:16]      sscanf plugin unloaded.    
+[17:07:16] 
+[17:07:16]  ===============================
+[17:07:16] 
+[17:07:16] plugin.mysql: Unloading plugin...
+[17:07:16] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:07:18] 
+[17:07:18] Server Plugins
+[17:07:18] --------------
+[17:07:18]  Loading plugin: sscanf
+[17:07:18] 
+[17:07:18]  ===============================
+[17:07:18] 
+[17:07:18]       sscanf plugin loaded.     
+[17:07:18] 
+[17:07:18]          Version: 2.13.8
+[17:07:18] 
+[17:07:18]    (c) 2022 Alex "Y_Less" Cole  
+[17:07:18] 
+[17:07:18]  ===============================
+[17:07:18] 
+[17:07:18]   Loaded.
+[17:07:18]  Loading plugin: mysql
+[17:07:19]  >> plugin.mysql: R41-4 successfully loaded.
+[17:07:19]   Loaded.
+[17:07:19]  Loaded 2 plugins.
+
+[17:07:19] 
+[17:07:19] Filterscripts
+[17:07:19] ---------------
+[17:07:19]   Loading filterscript 'flymode.amx'...
+[17:07:19]   Loaded 1 filterscripts.
+
+[17:07:19] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:07:19] [DB] Connected to database successfully
+[17:07:19] 
+----------------------------------
+[17:07:19]   Bare Script
+
+[17:07:19] ----------------------------------
+
+[17:07:19] Number of vehicle models: 0
+[17:07:20] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:07:20] Houses query executed
+[17:10:05] --- Server Shutting Down.
+[17:10:05] 
+[17:10:05]  ===============================
+[17:10:05] 
+[17:10:05]      sscanf plugin unloaded.    
+[17:10:05] 
+[17:10:05]  ===============================
+[17:10:05] 
+[17:10:05] plugin.mysql: Unloading plugin...
+[17:10:05] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:10:09] 
+[17:10:09] Server Plugins
+[17:10:09] --------------
+[17:10:09]  Loading plugin: sscanf
+[17:10:09] 
+[17:10:09]  ===============================
+[17:10:09] 
+[17:10:09]       sscanf plugin loaded.     
+[17:10:09] 
+[17:10:09]          Version: 2.13.8
+[17:10:09] 
+[17:10:09]    (c) 2022 Alex "Y_Less" Cole  
+[17:10:09] 
+[17:10:09]  ===============================
+[17:10:09] 
+[17:10:09]   Loaded.
+[17:10:09]  Loading plugin: mysql
+[17:10:09]  >> plugin.mysql: R41-4 successfully loaded.
+[17:10:09]   Loaded.
+[17:10:09]  Loaded 2 plugins.
+
+[17:10:09] 
+[17:10:09] Filterscripts
+[17:10:09] ---------------
+[17:10:09]   Loading filterscript 'flymode.amx'...
+[17:10:09]   Loaded 1 filterscripts.
+
+[17:10:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:10:09] [DB] Connected to database successfully
+[17:10:09] 
+----------------------------------
+[17:10:09]   Bare Script
+
+[17:10:09] ----------------------------------
+
+[17:10:09] Number of vehicle models: 0
+[17:10:13] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:10:13] Houses query executed
+[17:11:33] --- Server Shutting Down.
+[17:11:33] 
+[17:11:33]  ===============================
+[17:11:33] 
+[17:11:33]      sscanf plugin unloaded.    
+[17:11:33] 
+[17:11:33]  ===============================
+[17:11:33] 
+[17:11:33] plugin.mysql: Unloading plugin...
+[17:11:33] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:11:35] 
+[17:11:35] Server Plugins
+[17:11:35] --------------
+[17:11:35]  Loading plugin: sscanf
+[17:11:35] 
+[17:11:35]  ===============================
+[17:11:35] 
+[17:11:35]       sscanf plugin loaded.     
+[17:11:35] 
+[17:11:35]          Version: 2.13.8
+[17:11:35] 
+[17:11:35]    (c) 2022 Alex "Y_Less" Cole  
+[17:11:35] 
+[17:11:35]  ===============================
+[17:11:35] 
+[17:11:35]   Loaded.
+[17:11:35]  Loading plugin: mysql
+[17:11:35]  >> plugin.mysql: R41-4 successfully loaded.
+[17:11:35]   Loaded.
+[17:11:35]  Loaded 2 plugins.
+
+[17:11:35] 
+[17:11:35] Filterscripts
+[17:11:35] ---------------
+[17:11:35]   Loading filterscript 'flymode.amx'...
+[17:11:35]   Loaded 1 filterscripts.
+
+[17:11:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:11:35] [DB] Connected to database successfully
+[17:11:35] 
+----------------------------------
+[17:11:35]   Bare Script
+
+[17:11:35] ----------------------------------
+
+[17:11:35] Number of vehicle models: 0
+[17:11:39] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:11:39] Houses query executed
+[17:13:41] --- Server Shutting Down.
+[17:13:41] 
+[17:13:41]  ===============================
+[17:13:41] 
+[17:13:41]      sscanf plugin unloaded.    
+[17:13:41] 
+[17:13:41]  ===============================
+[17:13:41] 
+[17:13:41] plugin.mysql: Unloading plugin...
+[17:13:41] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:13:45] 
+[17:13:45] Server Plugins
+[17:13:45] --------------
+[17:13:45]  Loading plugin: sscanf
+[17:13:45] 
+[17:13:45]  ===============================
+[17:13:45] 
+[17:13:45]       sscanf plugin loaded.     
+[17:13:45] 
+[17:13:45]          Version: 2.13.8
+[17:13:45] 
+[17:13:45]    (c) 2022 Alex "Y_Less" Cole  
+[17:13:45] 
+[17:13:45]  ===============================
+[17:13:45] 
+[17:13:45]   Loaded.
+[17:13:45]  Loading plugin: mysql
+[17:13:45]  >> plugin.mysql: R41-4 successfully loaded.
+[17:13:45]   Loaded.
+[17:13:45]  Loaded 2 plugins.
+
+[17:13:45] 
+[17:13:45] Filterscripts
+[17:13:45] ---------------
+[17:13:45]   Loading filterscript 'flymode.amx'...
+[17:13:45]   Loaded 1 filterscripts.
+
+[17:13:45] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:13:45] [DB] Connected to database successfully
+[17:13:45] 
+----------------------------------
+[17:13:45]   Bare Script
+
+[17:13:45] ----------------------------------
+
+[17:13:45] Number of vehicle models: 0
+[17:13:46] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:13:46] Houses query executed
+[17:13:46] BEGIN ROWS 7
+[17:13:46] House 8 loaded
+[17:13:46] House 9 loaded
+[17:13:46] House 10 loaded
+[17:13:46] House 11 loaded
+[17:13:46] House 12 loaded
+[17:13:46] House 13 loaded
+[17:13:46] House 14 loaded
+[17:13:46] END ROWS
+[17:14:11] --- Server Shutting Down.
+[17:14:12] 
+[17:14:12]  ===============================
+[17:14:12] 
+[17:14:12]      sscanf plugin unloaded.    
+[17:14:12] 
+[17:14:12]  ===============================
+[17:14:12] 
+[17:14:12] plugin.mysql: Unloading plugin...
+[17:14:12] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:14:16] 
+[17:14:16] Server Plugins
+[17:14:16] --------------
+[17:14:16]  Loading plugin: sscanf
+[17:14:16] 
+[17:14:16]  ===============================
+[17:14:16] 
+[17:14:16]       sscanf plugin loaded.     
+[17:14:16] 
+[17:14:16]          Version: 2.13.8
+[17:14:16] 
+[17:14:16]    (c) 2022 Alex "Y_Less" Cole  
+[17:14:16] 
+[17:14:16]  ===============================
+[17:14:16] 
+[17:14:16]   Loaded.
+[17:14:16]  Loading plugin: mysql
+[17:14:16]  >> plugin.mysql: R41-4 successfully loaded.
+[17:14:16]   Loaded.
+[17:14:16]  Loaded 2 plugins.
+
+[17:14:16] 
+[17:14:16] Filterscripts
+[17:14:16] ---------------
+[17:14:16]   Loading filterscript 'flymode.amx'...
+[17:14:16]   Loaded 1 filterscripts.
+
+[17:14:16] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:14:16] [DB] Connected to database successfully
+[17:14:16] 
+----------------------------------
+[17:14:16]   Bare Script
+
+[17:14:16] ----------------------------------
+
+[17:14:16] Number of vehicle models: 0
+[17:14:17] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:14:17] House 8 loaded
+[17:14:17] House 9 loaded
+[17:14:17] House 10 loaded
+[17:14:17] House 11 loaded
+[17:14:17] House 12 loaded
+[17:14:17] House 13 loaded
+[17:14:17] House 14 loaded
+[17:14:41] [connection] incoming connection: 127.0.0.1:62166 id: 0
+[17:14:41] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[17:15:09] 2396.916503, 690.872558, 11.453125
+[17:15:10] [part] Ivan_Pistolas has left the server (0:1)
+[17:16:15] --- Server Shutting Down.
+[17:16:15] 
+[17:16:15]  ===============================
+[17:16:15] 
+[17:16:15]      sscanf plugin unloaded.    
+[17:16:15] 
+[17:16:15]  ===============================
+[17:16:15] 
+[17:16:15] plugin.mysql: Unloading plugin...
+[17:16:15] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:16:19] 
+[17:16:19] Server Plugins
+[17:16:19] --------------
+[17:16:19]  Loading plugin: sscanf
+[17:16:19] 
+[17:16:19]  ===============================
+[17:16:19] 
+[17:16:19]       sscanf plugin loaded.     
+[17:16:19] 
+[17:16:19]          Version: 2.13.8
+[17:16:19] 
+[17:16:19]    (c) 2022 Alex "Y_Less" Cole  
+[17:16:19] 
+[17:16:19]  ===============================
+[17:16:19] 
+[17:16:19]   Loaded.
+[17:16:19]  Loading plugin: mysql
+[17:16:19]  >> plugin.mysql: R41-4 successfully loaded.
+[17:16:19]   Loaded.
+[17:16:19]  Loaded 2 plugins.
+
+[17:16:19] 
+[17:16:19] Filterscripts
+[17:16:19] ---------------
+[17:16:19]   Loading filterscript 'flymode.amx'...
+[17:16:19]   Loaded 1 filterscripts.
+
+[17:16:19] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:16:19] [DB] Connected to database successfully
+[17:16:19] 
+----------------------------------
+[17:16:19]   Bare Script
+
+[17:16:19] ----------------------------------
+
+[17:16:19] Number of vehicle models: 0
+[17:16:20] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:16:20] House 8 loaded
+[17:16:20] House 9 loaded
+[17:16:20] House 10 loaded
+[17:16:20] House 11 loaded
+[17:16:20] House 12 loaded
+[17:16:20] House 13 loaded
+[17:16:20] House 14 loaded
+[17:16:22] --- Server Shutting Down.
+[17:16:22] 
+[17:16:22]  ===============================
+[17:16:22] 
+[17:16:22]      sscanf plugin unloaded.    
+[17:16:22] 
+[17:16:22]  ===============================
+[17:16:22] 
+[17:16:22] plugin.mysql: Unloading plugin...
+[17:16:22] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:16:35] 
+[17:16:35] Server Plugins
+[17:16:35] --------------
+[17:16:35]  Loading plugin: sscanf
+[17:16:35] 
+[17:16:35]  ===============================
+[17:16:35] 
+[17:16:35]       sscanf plugin loaded.     
+[17:16:35] 
+[17:16:35]          Version: 2.13.8
+[17:16:35] 
+[17:16:35]    (c) 2022 Alex "Y_Less" Cole  
+[17:16:35] 
+[17:16:35]  ===============================
+[17:16:35] 
+[17:16:35]   Loaded.
+[17:16:35]  Loading plugin: mysql
+[17:16:35]  >> plugin.mysql: R41-4 successfully loaded.
+[17:16:35]   Loaded.
+[17:16:35]  Loaded 2 plugins.
+
+[17:16:35] 
+[17:16:35] Filterscripts
+[17:16:35] ---------------
+[17:16:35]   Loading filterscript 'flymode.amx'...
+[17:16:35]   Loaded 1 filterscripts.
+
+[17:16:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:16:35] [DB] Connected to database successfully
+[17:16:35] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:16:35] 
+----------------------------------
+[17:16:35]   Bare Script
+
+[17:16:35] ----------------------------------
+
+[17:16:35] Number of vehicle models: 0
+[17:16:35] House 8 loaded
+[17:16:35] House 9 loaded
+[17:16:35] House 10 loaded
+[17:16:35] House 11 loaded
+[17:16:35] House 12 loaded
+[17:16:35] House 13 loaded
+[17:16:35] House 14 loaded
+[17:16:44] --- Server Shutting Down.
+[17:16:44] 
+[17:16:44]  ===============================
+[17:16:44] 
+[17:16:44]      sscanf plugin unloaded.    
+[17:16:44] 
+[17:16:44]  ===============================
+[17:16:44] 
+[17:16:44] plugin.mysql: Unloading plugin...
+[17:16:44] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:17:05] 
+[17:17:05] Server Plugins
+[17:17:05] --------------
+[17:17:05]  Loading plugin: sscanf
+[17:17:05] 
+[17:17:05]  ===============================
+[17:17:05] 
+[17:17:05]       sscanf plugin loaded.     
+[17:17:05] 
+[17:17:05]          Version: 2.13.8
+[17:17:05] 
+[17:17:05]    (c) 2022 Alex "Y_Less" Cole  
+[17:17:05] 
+[17:17:05]  ===============================
+[17:17:05] 
+[17:17:05]   Loaded.
+[17:17:05]  Loading plugin: mysql
+[17:17:05]  >> plugin.mysql: R41-4 successfully loaded.
+[17:17:05]   Loaded.
+[17:17:05]  Loaded 2 plugins.
+
+[17:17:05] 
+[17:17:05] Filterscripts
+[17:17:05] ---------------
+[17:17:05]   Loading filterscript 'flymode.amx'...
+[17:17:05]   Loaded 1 filterscripts.
+
+[17:17:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:17:05] [DB] Connected to database successfully
+[17:17:05] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:17:05] 
+----------------------------------
+[17:17:05]   Bare Script
+
+[17:17:05] ----------------------------------
+
+[17:17:05] Number of vehicle models: 0
+[17:17:05] 7 houses loaded
+[17:17:36] [connection] incoming connection: 127.0.0.1:62630 id: 0
+[17:17:37] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[17:18:12] [part] Ivan_Pistolas has left the server (0:1)
+[17:19:42] --- Server Shutting Down.
+[17:19:42] 
+[17:19:42]  ===============================
+[17:19:42] 
+[17:19:42]      sscanf plugin unloaded.    
+[17:19:42] 
+[17:19:42]  ===============================
+[17:19:42] 
+[17:19:42] plugin.mysql: Unloading plugin...
+[17:19:42] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:19:57] 
+[17:19:57] Server Plugins
+[17:19:57] --------------
+[17:19:57]  Loading plugin: sscanf
+[17:19:57] 
+[17:19:57]  ===============================
+[17:19:57] 
+[17:19:57]       sscanf plugin loaded.     
+[17:19:57] 
+[17:19:57]          Version: 2.13.8
+[17:19:57] 
+[17:19:57]    (c) 2022 Alex "Y_Less" Cole  
+[17:19:57] 
+[17:19:57]  ===============================
+[17:19:57] 
+[17:19:57]   Loaded.
+[17:19:57]  Loading plugin: mysql
+[17:19:57]  >> plugin.mysql: R41-4 successfully loaded.
+[17:19:57]   Loaded.
+[17:19:57]  Loaded 2 plugins.
+
+[17:19:57] 
+[17:19:57] Filterscripts
+[17:19:57] ---------------
+[17:19:57]   Loading filterscript 'flymode.amx'...
+[17:19:57]   Loaded 1 filterscripts.
+
+[17:19:57] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:19:57] [DB] Connected to database successfully
+[17:19:57] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:19:57] 
+----------------------------------
+[17:19:57]   Bare Script
+
+[17:19:57] ----------------------------------
+
+[17:19:57] Number of vehicle models: 0
+[17:19:57] 7 houses loaded
+[17:20:23] [connection] incoming connection: 127.0.0.1:51278 id: 0
+[17:20:23] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[17:20:52] [part] Ivan_Pistolas has left the server (0:1)
+[17:36:20] --- Server Shutting Down.
+[17:36:20] 
+[17:36:20]  ===============================
+[17:36:20] 
+[17:36:20]      sscanf plugin unloaded.    
+[17:36:20] 
+[17:36:20]  ===============================
+[17:36:20] 
+[17:36:20] plugin.mysql: Unloading plugin...
+[17:36:20] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:43:03] 
+[17:43:03] Server Plugins
+[17:43:03] --------------
+[17:43:03]  Loading plugin: sscanf
+[17:43:03] 
+[17:43:03]  ===============================
+[17:43:03] 
+[17:43:03]       sscanf plugin loaded.     
+[17:43:03] 
+[17:43:03]          Version: 2.13.8
+[17:43:03] 
+[17:43:03]    (c) 2022 Alex "Y_Less" Cole  
+[17:43:03] 
+[17:43:03]  ===============================
+[17:43:03] 
+[17:43:03]   Loaded.
+[17:43:03]  Loading plugin: mysql
+[17:43:03]  >> plugin.mysql: R41-4 successfully loaded.
+[17:43:03]   Loaded.
+[17:43:03]  Loaded 2 plugins.
+
+[17:43:03] 
+[17:43:03] Filterscripts
+[17:43:03] ---------------
+[17:43:03]   Loading filterscript 'flymode.amx'...
+[17:43:03]   Loaded 1 filterscripts.
+
+[17:43:03] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:43:03] [DB] Connected to database successfully
+[17:43:03] SELECT id, x, y, z, interior, price, name, description, owner FROM houses;
+[17:43:03] 
+----------------------------------
+[17:43:03]   Bare Script
+
+[17:43:03] ----------------------------------
+
+[17:43:03] Number of vehicle models: 0
+[17:43:03] OnMysqlError(1054, Unknown column 'interior' in 'field list', OnHousesLoaded, SELECT id, x, y, z, interior, price, name, description, owner FROM houses;)
+[17:43:28] [connection] incoming connection: 127.0.0.1:63391 id: 0
+[17:43:29] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[17:43:42] [part] Ivan_Pistolas has left the server (0:1)
+[17:43:52] --- Server Shutting Down.
+[17:43:52] 
+[17:43:52]  ===============================
+[17:43:52] 
+[17:43:52]      sscanf plugin unloaded.    
+[17:43:52] 
+[17:43:52]  ===============================
+[17:43:52] 
+[17:43:52] plugin.mysql: Unloading plugin...
+[17:43:52] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:44:03] 
+[17:44:03] Server Plugins
+[17:44:03] --------------
+[17:44:03]  Loading plugin: sscanf
+[17:44:03] 
+[17:44:03]  ===============================
+[17:44:03] 
+[17:44:03]       sscanf plugin loaded.     
+[17:44:03] 
+[17:44:03]          Version: 2.13.8
+[17:44:03] 
+[17:44:03]    (c) 2022 Alex "Y_Less" Cole  
+[17:44:03] 
+[17:44:03]  ===============================
+[17:44:03] 
+[17:44:03]   Loaded.
+[17:44:03]  Loading plugin: mysql
+[17:44:03]  >> plugin.mysql: R41-4 successfully loaded.
+[17:44:03]   Loaded.
+[17:44:03]  Loaded 2 plugins.
+
+[17:44:03] 
+[17:44:03] Filterscripts
+[17:44:03] ---------------
+[17:44:03]   Loading filterscript 'flymode.amx'...
+[17:44:03]   Loaded 1 filterscripts.
+
+[17:44:03] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:44:03] [DB] Connected to database successfully
+[17:44:03] SELECT id, x, y, z, price, name, description, owner FROM houses;
+[17:44:03] 
+----------------------------------
+[17:44:03]   Bare Script
+
+[17:44:03] ----------------------------------
+
+[17:44:03] Number of vehicle models: 0
+[17:44:03] 7 houses loaded
+[17:56:26] [connection] incoming connection: 127.0.0.1:57818 id: 0
+[17:56:26] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[17:56:48] [part] Ivan_Pistolas has left the server (0:1)
+[17:57:01] --- Server Shutting Down.
+[17:57:01] 
+[17:57:01]  ===============================
+[17:57:01] 
+[17:57:01]      sscanf plugin unloaded.    
+[17:57:01] 
+[17:57:01]  ===============================
+[17:57:01] 
+[17:57:01] plugin.mysql: Unloading plugin...
+[17:57:01] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:04:37] 
+[18:04:37] Server Plugins
+[18:04:37] --------------
+[18:04:37]  Loading plugin: sscanf
+[18:04:37] 
+[18:04:37]  ===============================
+[18:04:37] 
+[18:04:37]       sscanf plugin loaded.     
+[18:04:37] 
+[18:04:37]          Version: 2.13.8
+[18:04:37] 
+[18:04:37]    (c) 2022 Alex "Y_Less" Cole  
+[18:04:37] 
+[18:04:37]  ===============================
+[18:04:37] 
+[18:04:37]   Loaded.
+[18:04:37]  Loading plugin: mysql
+[18:04:37]  >> plugin.mysql: R41-4 successfully loaded.
+[18:04:37]   Loaded.
+[18:04:37]  Loaded 2 plugins.
+
+[18:04:37] 
+[18:04:37] Filterscripts
+[18:04:37] ---------------
+[18:04:37]   Loading filterscript 'flymode.amx'...
+[18:04:38]   Loaded 1 filterscripts.
+
+[18:04:38] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:04:38] [DB] Connected to database successfully
+[18:04:38] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[18:04:38] 
+----------------------------------
+[18:04:38]   Bare Script
+
+[18:04:38] ----------------------------------
+
+[18:04:38] Number of vehicle models: 0
+[18:04:38] 7 houses loaded
+[18:05:05] [connection] incoming connection: 127.0.0.1:61752 id: 0
+[18:05:05] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:26:03] [part] Ivan_Pistolas has left the server (0:1)
+[18:26:06] --- Server Shutting Down.
+[18:26:06] 
+[18:26:06]  ===============================
+[18:26:06] 
+[18:26:06]      sscanf plugin unloaded.    
+[18:26:06] 
+[18:26:06]  ===============================
+[18:26:06] 
+[18:26:06] plugin.mysql: Unloading plugin...
+[18:26:06] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:26:12] 
+[18:26:12] Server Plugins
+[18:26:12] --------------
+[18:26:12]  Loading plugin: sscanf
+[18:26:12] 
+[18:26:12]  ===============================
+[18:26:12] 
+[18:26:12]       sscanf plugin loaded.     
+[18:26:12] 
+[18:26:12]          Version: 2.13.8
+[18:26:12] 
+[18:26:12]    (c) 2022 Alex "Y_Less" Cole  
+[18:26:12] 
+[18:26:12]  ===============================
+[18:26:12] 
+[18:26:12]   Loaded.
+[18:26:12]  Loading plugin: mysql
+[18:26:12]  >> plugin.mysql: R41-4 successfully loaded.
+[18:26:12]   Loaded.
+[18:26:12]  Loaded 2 plugins.
+
+[18:26:12] 
+[18:26:12] Filterscripts
+[18:26:12] ---------------
+[18:26:12]   Loading filterscript 'flymode.amx'...
+[18:26:12]   Loaded 1 filterscripts.
+
+[18:26:12] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:26:12] [DB] Connected to database successfully
+[18:26:12] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[18:26:12] 
+----------------------------------
+[18:26:12]   Bare Script
+
+[18:26:12] ----------------------------------
+
+[18:26:12] Number of vehicle models: 0
+[18:26:12] 7 houses loaded
+[18:26:37] [connection] incoming connection: 127.0.0.1:56415 id: 0
+[18:26:37] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:27:17] [part] Ivan_Pistolas has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:37:31] 
+[17:37:31] Server Plugins
+[17:37:31] --------------
+[17:37:31]  Loading plugin: sscanf
+[17:37:31] 
+[17:37:31]  ===============================
+[17:37:31] 
+[17:37:31]       sscanf plugin loaded.     
+[17:37:31] 
+[17:37:31]          Version: 2.13.8
+[17:37:31] 
+[17:37:31]    (c) 2022 Alex "Y_Less" Cole  
+[17:37:31] 
+[17:37:31]  ===============================
+[17:37:31] 
+[17:37:31]   Loaded.
+[17:37:31]  Loading plugin: mysql
+[17:37:31]  >> plugin.mysql: R41-4 successfully loaded.
+[17:37:31]   Loaded.
+[17:37:31]  Loaded 2 plugins.
+
+[17:37:31] 
+[17:37:31] Filterscripts
+[17:37:31] ---------------
+[17:37:31]   Loading filterscript 'flymode.amx'...
+[17:37:31]   Loaded 1 filterscripts.
+
+[17:37:31] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:37:31] [DB] Connected to database successfully
+[17:37:31] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[17:37:31] 
+----------------------------------
+[17:37:31]   Bare Script
+
+[17:37:31] ----------------------------------
+
+[17:37:31] Number of vehicle models: 0
+[17:37:31] 7 houses loaded
+[17:48:17] --- Server Shutting Down.
+[17:48:17] 
+[17:48:17]  ===============================
+[17:48:17] 
+[17:48:17]      sscanf plugin unloaded.    
+[17:48:17] 
+[17:48:17]  ===============================
+[17:48:17] 
+[17:48:17] plugin.mysql: Unloading plugin...
+[17:48:17] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:48:21] 
+[17:48:21] Server Plugins
+[17:48:21] --------------
+[17:48:21]  Loading plugin: sscanf
+[17:48:21] 
+[17:48:21]  ===============================
+[17:48:21] 
+[17:48:21]       sscanf plugin loaded.     
+[17:48:21] 
+[17:48:21]          Version: 2.13.8
+[17:48:21] 
+[17:48:21]    (c) 2022 Alex "Y_Less" Cole  
+[17:48:21] 
+[17:48:21]  ===============================
+[17:48:21] 
+[17:48:21]   Loaded.
+[17:48:21]  Loading plugin: mysql
+[17:48:21]  >> plugin.mysql: R41-4 successfully loaded.
+[17:48:21]   Loaded.
+[17:48:21]  Loaded 2 plugins.
+
+[17:48:21] 
+[17:48:21] Filterscripts
+[17:48:21] ---------------
+[17:48:21]   Loading filterscript 'flymode.amx'...
+[17:48:21]   Loaded 1 filterscripts.
+
+[17:48:21] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:48:21] [DB] Connected to database successfully
+[17:48:21] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[17:48:21] 
+----------------------------------
+[17:48:21]   Bare Script
+
+[17:48:21] ----------------------------------
+
+[17:48:21] Number of vehicle models: 0
+[17:48:21] 7 houses loaded
+[17:48:22] --- Server Shutting Down.
+[17:48:22] 
+[17:48:22]  ===============================
+[17:48:22] 
+[17:48:22]      sscanf plugin unloaded.    
+[17:48:22] 
+[17:48:22]  ===============================
+[17:48:22] 
+[17:48:22] plugin.mysql: Unloading plugin...
+[17:48:22] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:59:23] 
+[14:59:23] Server Plugins
+[14:59:23] --------------
+[14:59:23]  Loading plugin: sscanf
+[14:59:23] 
+[14:59:23]  ===============================
+[14:59:23] 
+[14:59:23]       sscanf plugin loaded.     
+[14:59:23] 
+[14:59:23]          Version: 2.13.8
+[14:59:23] 
+[14:59:23]    (c) 2022 Alex "Y_Less" Cole  
+[14:59:23] 
+[14:59:23]  ===============================
+[14:59:23] 
+[14:59:23]   Loaded.
+[14:59:23]  Loading plugin: mysql
+[14:59:23]  >> plugin.mysql: R41-4 successfully loaded.
+[14:59:23]   Loaded.
+[14:59:23]  Loaded 2 plugins.
+
+[14:59:23] 
+[14:59:23] Filterscripts
+[14:59:23] ---------------
+[14:59:23]   Loading filterscript 'flymode.amx'...
+[14:59:23]   Loaded 1 filterscripts.
+
+[14:59:23] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:59:23] [DB] Connected to database successfully
+[14:59:23] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM h houses;
+[14:59:23] 
+----------------------------------
+[14:59:23]   Bare Script
+
+[14:59:23] ----------------------------------
+
+[14:59:23] Number of vehicle models: 0
+[14:59:27] --- Server Shutting Down.
+[14:59:27] 
+[14:59:27]  ===============================
+[14:59:27] 
+[14:59:27]      sscanf plugin unloaded.    
+[14:59:27] 
+[14:59:27]  ===============================
+[14:59:27] 
+[14:59:27] plugin.mysql: Unloading plugin...
+[14:59:27] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:59:30] 
+[14:59:30] Server Plugins
+[14:59:30] --------------
+[14:59:30]  Loading plugin: sscanf
+[14:59:30] 
+[14:59:30]  ===============================
+[14:59:30] 
+[14:59:30]       sscanf plugin loaded.     
+[14:59:30] 
+[14:59:30]          Version: 2.13.8
+[14:59:30] 
+[14:59:30]    (c) 2022 Alex "Y_Less" Cole  
+[14:59:30] 
+[14:59:30]  ===============================
+[14:59:30] 
+[14:59:30]   Loaded.
+[14:59:30]  Loading plugin: mysql
+[14:59:30]  >> plugin.mysql: R41-4 successfully loaded.
+[14:59:30]   Loaded.
+[14:59:30]  Loaded 2 plugins.
+
+[14:59:30] 
+[14:59:30] Filterscripts
+[14:59:30] ---------------
+[14:59:30]   Loading filterscript 'flymode.amx'...
+[14:59:30]   Loaded 1 filterscripts.
+
+[14:59:30] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:59:30] [DB] Connected to database successfully
+[14:59:30] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM h houses;
+[14:59:30] 
+----------------------------------
+[14:59:30]   Bare Script
+
+[14:59:30] ----------------------------------
+
+[14:59:30] Number of vehicle models: 0
+[14:59:54] --- Server Shutting Down.
+[14:59:54] 
+[14:59:54]  ===============================
+[14:59:54] 
+[14:59:54]      sscanf plugin unloaded.    
+[14:59:54] 
+[14:59:54]  ===============================
+[14:59:54] 
+[14:59:54] plugin.mysql: Unloading plugin...
+[14:59:54] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:59:56] 
+[14:59:56] Server Plugins
+[14:59:56] --------------
+[14:59:56]  Loading plugin: sscanf
+[14:59:56] 
+[14:59:56]  ===============================
+[14:59:56] 
+[14:59:56]       sscanf plugin loaded.     
+[14:59:56] 
+[14:59:56]          Version: 2.13.8
+[14:59:56] 
+[14:59:56]    (c) 2022 Alex "Y_Less" Cole  
+[14:59:56] 
+[14:59:56]  ===============================
+[14:59:56] 
+[14:59:56]   Loaded.
+[14:59:56]  Loading plugin: mysql
+[14:59:56]  >> plugin.mysql: R41-4 successfully loaded.
+[14:59:56]   Loaded.
+[14:59:56]  Loaded 2 plugins.
+
+[14:59:56] 
+[14:59:56] Filterscripts
+[14:59:56] ---------------
+[14:59:56]   Loading filterscript 'flymode.amx'...
+[14:59:56]   Loaded 1 filterscripts.
+
+[14:59:56] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:59:56] [DB] Connected to database successfully
+[14:59:56] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[14:59:56] 
+----------------------------------
+[14:59:56]   Bare Script
+
+[14:59:56] ----------------------------------
+
+[14:59:56] Number of vehicle models: 0
+[14:59:56] 7 houses loaded
+[15:04:54] --- Server Shutting Down.
+[15:04:54] 
+[15:04:54]  ===============================
+[15:04:54] 
+[15:04:54]      sscanf plugin unloaded.    
+[15:04:54] 
+[15:04:54]  ===============================
+[15:04:54] 
+[15:04:54] plugin.mysql: Unloading plugin...
+[15:04:54] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:05:06] 
+[15:05:06] Server Plugins
+[15:05:06] --------------
+[15:05:06]  Loading plugin: sscanf
+[15:05:06] 
+[15:05:06]  ===============================
+[15:05:06] 
+[15:05:06]       sscanf plugin loaded.     
+[15:05:06] 
+[15:05:06]          Version: 2.13.8
+[15:05:06] 
+[15:05:06]    (c) 2022 Alex "Y_Less" Cole  
+[15:05:06] 
+[15:05:06]  ===============================
+[15:05:06] 
+[15:05:06]   Loaded.
+[15:05:06]  Loading plugin: mysql
+[15:05:06]  >> plugin.mysql: R41-4 successfully loaded.
+[15:05:06]   Loaded.
+[15:05:06]  Loaded 2 plugins.
+
+[15:05:07] 
+[15:05:07] Filterscripts
+[15:05:07] ---------------
+[15:05:07]   Loading filterscript 'flymode.amx'...
+[15:05:07]   Loaded 1 filterscripts.
+
+[15:05:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:05:07] [DB] Connected to database successfully
+[15:05:07] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:05:07] 
+----------------------------------
+[15:05:07]   Bare Script
+
+[15:05:07] ----------------------------------
+
+[15:05:07] Number of vehicle models: 0
+[15:05:07] 7 houses loaded
+[15:05:33] [connection] incoming connection: 127.0.0.1:51145 id: 0
+[15:05:33] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:05:33] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:05:33] OnCheckSessionLoaded
+[15:05:40] INSERT INTO users (`nick`, `password`, `salt`, `rank`, `is_banned`, `ip`, `is_logged_in`, `interior`) VALUES ('Ivan_Pistolas', '49568A06835EC0C5B8F5D468C79B02F1FE3B64E3A240ADBFB07489F31F7EC566', 'P%sJNh(y\\NF!sKEq', 1, 0, '127.0.0.1', 1, 0);
+[15:06:17] [part] Ivan_Pistolas has left the server (0:1)
+[15:06:58] [connection] incoming connection: 127.0.0.1:63907 id: 0
+[15:06:58] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:06:58] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:06:58] OnCheckSessionLoaded
+[15:07:07] 258.489288, -41.400798, 775.981994
+[15:07:36] [death] Ivan_Pistolas died 54
+[15:07:42] [part] Ivan_Pistolas has left the server (0:1)
+[15:08:08] --- Server Shutting Down.
+[15:08:08] 
+[15:08:08]  ===============================
+[15:08:08] 
+[15:08:08]      sscanf plugin unloaded.    
+[15:08:08] 
+[15:08:08]  ===============================
+[15:08:08] 
+[15:08:08] plugin.mysql: Unloading plugin...
+[15:08:08] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:08:12] 
+[15:08:12] Server Plugins
+[15:08:12] --------------
+[15:08:12]  Loading plugin: sscanf
+[15:08:12] 
+[15:08:12]  ===============================
+[15:08:12] 
+[15:08:12]       sscanf plugin loaded.     
+[15:08:12] 
+[15:08:12]          Version: 2.13.8
+[15:08:12] 
+[15:08:12]    (c) 2022 Alex "Y_Less" Cole  
+[15:08:12] 
+[15:08:12]  ===============================
+[15:08:12] 
+[15:08:12]   Loaded.
+[15:08:12]  Loading plugin: mysql
+[15:08:12]  >> plugin.mysql: R41-4 successfully loaded.
+[15:08:12]   Loaded.
+[15:08:12]  Loaded 2 plugins.
+
+[15:08:12] 
+[15:08:12] Filterscripts
+[15:08:12] ---------------
+[15:08:12]   Loading filterscript 'flymode.amx'...
+[15:08:12]   Loaded 1 filterscripts.
+
+[15:08:12] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:08:12] [DB] Connected to database successfully
+[15:08:12] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:08:12] 
+----------------------------------
+[15:08:12]   Bare Script
+
+[15:08:12] ----------------------------------
+
+[15:08:12] Number of vehicle models: 0
+[15:08:12] 7 houses loaded
+[15:09:09] [connection] incoming connection: 127.0.0.1:65422 id: 0
+[15:09:09] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:09:09] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:09:09] OnCheckSessionLoaded
+[15:09:26] [part] Ivan_Pistolas has left the server (0:1)
+[15:10:00] --- Server Shutting Down.
+[15:10:00] 
+[15:10:00]  ===============================
+[15:10:00] 
+[15:10:00]      sscanf plugin unloaded.    
+[15:10:00] 
+[15:10:00]  ===============================
+[15:10:00] 
+[15:10:00] plugin.mysql: Unloading plugin...
+[15:10:00] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:10:09] 
+[15:10:09] Server Plugins
+[15:10:09] --------------
+[15:10:09]  Loading plugin: sscanf
+[15:10:09] 
+[15:10:09]  ===============================
+[15:10:09] 
+[15:10:09]       sscanf plugin loaded.     
+[15:10:09] 
+[15:10:09]          Version: 2.13.8
+[15:10:09] 
+[15:10:09]    (c) 2022 Alex "Y_Less" Cole  
+[15:10:09] 
+[15:10:09]  ===============================
+[15:10:09] 
+[15:10:09]   Loaded.
+[15:10:09]  Loading plugin: mysql
+[15:10:09]  >> plugin.mysql: R41-4 successfully loaded.
+[15:10:09]   Loaded.
+[15:10:09]  Loaded 2 plugins.
+
+[15:10:09] 
+[15:10:09] Filterscripts
+[15:10:09] ---------------
+[15:10:09]   Loading filterscript 'flymode.amx'...
+[15:10:09]   Loaded 1 filterscripts.
+
+[15:10:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:10:09] [DB] Connected to database successfully
+[15:10:09] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:10:09] 
+----------------------------------
+[15:10:09]   Bare Script
+
+[15:10:09] ----------------------------------
+
+[15:10:09] Number of vehicle models: 0
+[15:10:09] 7 houses loaded
+[15:10:31] [connection] incoming connection: 127.0.0.1:50122 id: 0
+[15:10:32] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:10:32] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:10:32] OnCheckSessionLoaded
+[15:10:39] [part] Ivan_Pistolas has left the server (0:1)
+[15:11:34] --- Server Shutting Down.
+[15:11:34] 
+[15:11:34]  ===============================
+[15:11:34] 
+[15:11:34]      sscanf plugin unloaded.    
+[15:11:34] 
+[15:11:34]  ===============================
+[15:11:34] 
+[15:11:34] plugin.mysql: Unloading plugin...
+[15:11:34] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:11:37] 
+[15:11:37] Server Plugins
+[15:11:37] --------------
+[15:11:37]  Loading plugin: sscanf
+[15:11:37] 
+[15:11:37]  ===============================
+[15:11:37] 
+[15:11:37]       sscanf plugin loaded.     
+[15:11:37] 
+[15:11:37]          Version: 2.13.8
+[15:11:37] 
+[15:11:37]    (c) 2022 Alex "Y_Less" Cole  
+[15:11:37] 
+[15:11:37]  ===============================
+[15:11:37] 
+[15:11:37]   Loaded.
+[15:11:37]  Loading plugin: mysql
+[15:11:37]  >> plugin.mysql: R41-4 successfully loaded.
+[15:11:37]   Loaded.
+[15:11:37]  Loaded 2 plugins.
+
+[15:11:37] 
+[15:11:37] Filterscripts
+[15:11:37] ---------------
+[15:11:37]   Loading filterscript 'flymode.amx'...
+[15:11:37]   Loaded 1 filterscripts.
+
+[15:11:37] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:11:37] [DB] Connected to database successfully
+[15:11:37] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:11:37] 
+----------------------------------
+[15:11:37]   Bare Script
+
+[15:11:37] ----------------------------------
+
+[15:11:37] Number of vehicle models: 0
+[15:11:37] 7 houses loaded
+[15:12:00] [connection] incoming connection: 127.0.0.1:64688 id: 0
+[15:12:00] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:12:00] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:12:00] OnCheckSessionLoaded
+[15:12:13] [part] Ivan_Pistolas has left the server (0:1)
+[15:15:58] --- Server Shutting Down.
+[15:15:58] 
+[15:15:58]  ===============================
+[15:15:58] 
+[15:15:58]      sscanf plugin unloaded.    
+[15:15:58] 
+[15:15:58]  ===============================
+[15:15:58] 
+[15:15:58] plugin.mysql: Unloading plugin...
+[15:15:58] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:16:44] 
+[15:16:44] Server Plugins
+[15:16:44] --------------
+[15:16:44]  Loading plugin: sscanf
+[15:16:44] 
+[15:16:44]  ===============================
+[15:16:44] 
+[15:16:44]       sscanf plugin loaded.     
+[15:16:44] 
+[15:16:44]          Version: 2.13.8
+[15:16:44] 
+[15:16:44]    (c) 2022 Alex "Y_Less" Cole  
+[15:16:44] 
+[15:16:44]  ===============================
+[15:16:44] 
+[15:16:44]   Loaded.
+[15:16:44]  Loading plugin: mysql
+[15:16:44]  >> plugin.mysql: R41-4 successfully loaded.
+[15:16:44]   Loaded.
+[15:16:44]  Loaded 2 plugins.
+
+[15:16:44] 
+[15:16:44] Filterscripts
+[15:16:44] ---------------
+[15:16:44]   Loading filterscript 'flymode.amx'...
+[15:16:44]   Loaded 1 filterscripts.
+
+[15:16:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:16:44] [DB] Connected to database successfully
+[15:16:44] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:16:44] 
+----------------------------------
+[15:16:44]   Bare Script
+
+[15:16:44] ----------------------------------
+
+[15:16:44] Number of vehicle models: 0
+[15:16:44] 7 houses loaded
+[15:17:07] [connection] incoming connection: 127.0.0.1:57704 id: 0
+[15:17:07] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:17:07] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:17:07] OnCheckSessionLoaded
+[15:17:31] [chat] [Ivan_Pistolas]: q
+[15:17:32] [part] Ivan_Pistolas has left the server (0:1)
+[15:17:47] --- Server Shutting Down.
+[15:17:47] 
+[15:17:47]  ===============================
+[15:17:47] 
+[15:17:47]      sscanf plugin unloaded.    
+[15:17:47] 
+[15:17:47]  ===============================
+[15:17:47] 
+[15:17:47] plugin.mysql: Unloading plugin...
+[15:17:47] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:17:49] 
+[15:17:49] Server Plugins
+[15:17:49] --------------
+[15:17:49]  Loading plugin: sscanf
+[15:17:49] 
+[15:17:49]  ===============================
+[15:17:49] 
+[15:17:49]       sscanf plugin loaded.     
+[15:17:49] 
+[15:17:49]          Version: 2.13.8
+[15:17:49] 
+[15:17:49]    (c) 2022 Alex "Y_Less" Cole  
+[15:17:49] 
+[15:17:49]  ===============================
+[15:17:49] 
+[15:17:49]   Loaded.
+[15:17:49]  Loading plugin: mysql
+[15:17:49]  >> plugin.mysql: R41-4 successfully loaded.
+[15:17:49]   Loaded.
+[15:17:49]  Loaded 2 plugins.
+
+[15:17:49] 
+[15:17:49] Filterscripts
+[15:17:49] ---------------
+[15:17:49]   Loading filterscript 'flymode.amx'...
+[15:17:49]   Loaded 1 filterscripts.
+
+[15:17:49] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:17:49] [DB] Connected to database successfully
+[15:17:49] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:17:49] 
+----------------------------------
+[15:17:49]   Bare Script
+
+[15:17:49] ----------------------------------
+
+[15:17:49] Number of vehicle models: 0
+[15:17:49] 7 houses loaded
+[15:18:09] [connection] incoming connection: 127.0.0.1:50061 id: 0
+[15:18:10] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:18:10] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:18:10] OnCheckSessionLoaded
+[15:18:31] [death] Ivan_Pistolas died 54
+[15:18:52] [part] Ivan_Pistolas has left the server (0:1)
+[15:20:28] --- Server Shutting Down.
+[15:20:28] 
+[15:20:28]  ===============================
+[15:20:28] 
+[15:20:28]      sscanf plugin unloaded.    
+[15:20:28] 
+[15:20:28]  ===============================
+[15:20:28] 
+[15:20:28] plugin.mysql: Unloading plugin...
+[15:20:28] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:20:37] 
+[15:20:37] Server Plugins
+[15:20:37] --------------
+[15:20:37]  Loading plugin: sscanf
+[15:20:37] 
+[15:20:37]  ===============================
+[15:20:37] 
+[15:20:37]       sscanf plugin loaded.     
+[15:20:37] 
+[15:20:37]          Version: 2.13.8
+[15:20:37] 
+[15:20:37]    (c) 2022 Alex "Y_Less" Cole  
+[15:20:37] 
+[15:20:37]  ===============================
+[15:20:37] 
+[15:20:37]   Loaded.
+[15:20:37]  Loading plugin: mysql
+[15:20:37]  >> plugin.mysql: R41-4 successfully loaded.
+[15:20:37]   Loaded.
+[15:20:37]  Loaded 2 plugins.
+
+[15:20:37] 
+[15:20:37] Filterscripts
+[15:20:37] ---------------
+[15:20:37]   Loading filterscript 'flymode.amx'...
+[15:20:37]   Loaded 1 filterscripts.
+
+[15:20:37] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:20:37] [DB] Connected to database successfully
+[15:20:37] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:20:37] 
+----------------------------------
+[15:20:37]   Bare Script
+
+[15:20:37] ----------------------------------
+
+[15:20:37] Number of vehicle models: 0
+[15:20:37] 7 houses loaded
+[15:21:05] [connection] incoming connection: 127.0.0.1:61428 id: 0
+[15:21:06] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:21:06] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:21:06] OnCheckSessionLoaded
+[15:21:12] Validating owner vs playerid 0 == 0
+[15:23:31] --- Server Shutting Down.
+[15:23:31] [part] Ivan_Pistolas has left the server (0:0)
+[15:23:31] 
+[15:23:31]  ===============================
+[15:23:31] 
+[15:23:31]      sscanf plugin unloaded.    
+[15:23:31] 
+[15:23:31]  ===============================
+[15:23:31] 
+[15:23:31] plugin.mysql: Unloading plugin...
+[15:23:31] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:23:34] 
+[15:23:34] Server Plugins
+[15:23:34] --------------
+[15:23:34]  Loading plugin: sscanf
+[15:23:34] 
+[15:23:34]  ===============================
+[15:23:34] 
+[15:23:34]       sscanf plugin loaded.     
+[15:23:34] 
+[15:23:34]          Version: 2.13.8
+[15:23:34] 
+[15:23:34]    (c) 2022 Alex "Y_Less" Cole  
+[15:23:34] 
+[15:23:34]  ===============================
+[15:23:34] 
+[15:23:34]   Loaded.
+[15:23:34]  Loading plugin: mysql
+[15:23:34]  >> plugin.mysql: R41-4 successfully loaded.
+[15:23:34]   Loaded.
+[15:23:34]  Loaded 2 plugins.
+
+[15:23:34] 
+[15:23:34] Filterscripts
+[15:23:34] ---------------
+[15:23:34]   Loading filterscript 'flymode.amx'...
+[15:23:34]   Loaded 1 filterscripts.
+
+[15:23:34] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:23:34] [DB] Connected to database successfully
+[15:23:34] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:23:34] 
+----------------------------------
+[15:23:34]   Bare Script
+
+[15:23:34] ----------------------------------
+
+[15:23:34] Number of vehicle models: 0
+[15:23:34] 7 houses loaded
+[15:24:11] [connection] incoming connection: 127.0.0.1:59644 id: 0
+[15:24:11] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:24:11] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:24:11] OnCheckSessionLoaded
+[15:24:34] [death] Ivan_Pistolas died 54
+[15:24:44] Validating owner vs playerid 0 == 0
+[15:24:45] Validating owner vs playerid 0 == 0
+[15:24:47] [part] Ivan_Pistolas has left the server (0:1)
+[15:25:10] --- Server Shutting Down.
+[15:25:10] 
+[15:25:10]  ===============================
+[15:25:10] 
+[15:25:10]      sscanf plugin unloaded.    
+[15:25:10] 
+[15:25:10]  ===============================
+[15:25:10] 
+[15:25:10] plugin.mysql: Unloading plugin...
+[15:25:10] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:25:31] 
+[15:25:31] Server Plugins
+[15:25:31] --------------
+[15:25:31]  Loading plugin: sscanf
+[15:25:31] 
+[15:25:31]  ===============================
+[15:25:31] 
+[15:25:31]       sscanf plugin loaded.     
+[15:25:31] 
+[15:25:31]          Version: 2.13.8
+[15:25:31] 
+[15:25:31]    (c) 2022 Alex "Y_Less" Cole  
+[15:25:31] 
+[15:25:31]  ===============================
+[15:25:31] 
+[15:25:31]   Loaded.
+[15:25:31]  Loading plugin: mysql
+[15:25:31]  >> plugin.mysql: R41-4 successfully loaded.
+[15:25:31]   Loaded.
+[15:25:31]  Loaded 2 plugins.
+
+[15:25:31] 
+[15:25:31] Filterscripts
+[15:25:31] ---------------
+[15:25:31]   Loading filterscript 'flymode.amx'...
+[15:25:31]   Loaded 1 filterscripts.
+
+[15:25:31] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:25:31] [DB] Connected to database successfully
+[15:25:31] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:25:31] 
+----------------------------------
+[15:25:31]   Bare Script
+
+[15:25:31] ----------------------------------
+
+[15:25:31] Number of vehicle models: 0
+[15:25:31] 7 houses loaded
+[15:25:55] [connection] incoming connection: 127.0.0.1:59498 id: 0
+[15:25:55] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:25:55] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:25:55] OnCheckSessionLoaded
+[15:26:02] Validating owner vs playerid 0 == 0
+[15:26:04] Validating owner vs playerid 0 == 0
+[15:26:06] [part] Ivan_Pistolas has left the server (0:1)
+[15:26:42] --- Server Shutting Down.
+[15:26:42] 
+[15:26:42]  ===============================
+[15:26:42] 
+[15:26:42]      sscanf plugin unloaded.    
+[15:26:42] 
+[15:26:42]  ===============================
+[15:26:42] 
+[15:26:42] plugin.mysql: Unloading plugin...
+[15:26:42] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:26:45] 
+[15:26:45] Server Plugins
+[15:26:45] --------------
+[15:26:45]  Loading plugin: sscanf
+[15:26:45] 
+[15:26:45]  ===============================
+[15:26:45] 
+[15:26:45]       sscanf plugin loaded.     
+[15:26:45] 
+[15:26:45]          Version: 2.13.8
+[15:26:45] 
+[15:26:45]    (c) 2022 Alex "Y_Less" Cole  
+[15:26:45] 
+[15:26:45]  ===============================
+[15:26:45] 
+[15:26:45]   Loaded.
+[15:26:45]  Loading plugin: mysql
+[15:26:45]  >> plugin.mysql: R41-4 successfully loaded.
+[15:26:45]   Loaded.
+[15:26:45]  Loaded 2 plugins.
+
+[15:26:45] 
+[15:26:45] Filterscripts
+[15:26:45] ---------------
+[15:26:45]   Loading filterscript 'flymode.amx'...
+[15:26:45]   Loaded 1 filterscripts.
+
+[15:26:45] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:26:45] [DB] Connected to database successfully
+[15:26:45] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:26:45] 
+----------------------------------
+[15:26:45]   Bare Script
+
+[15:26:45] ----------------------------------
+
+[15:26:45] Number of vehicle models: 0
+[15:26:45] 7 houses loaded
+[15:27:06] [connection] incoming connection: 127.0.0.1:53754 id: 0
+[15:27:06] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:27:06] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:27:06] OnCheckSessionLoaded
+[15:27:28] [death] Ivan_Pistolas died 54
+[15:27:36] Validating 1 owner vs playerid 0 == 0
+[15:28:58] --- Server Shutting Down.
+[15:28:58] [part] Ivan_Pistolas has left the server (0:0)
+[15:28:59] 
+[15:28:59]  ===============================
+[15:28:59] 
+[15:28:59]      sscanf plugin unloaded.    
+[15:28:59] 
+[15:28:59]  ===============================
+[15:28:59] 
+[15:28:59] plugin.mysql: Unloading plugin...
+[15:28:59] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:29:39] 
+[15:29:39] Server Plugins
+[15:29:39] --------------
+[15:29:39]  Loading plugin: sscanf
+[15:29:39] 
+[15:29:39]  ===============================
+[15:29:39] 
+[15:29:39]       sscanf plugin loaded.     
+[15:29:39] 
+[15:29:39]          Version: 2.13.8
+[15:29:39] 
+[15:29:39]    (c) 2022 Alex "Y_Less" Cole  
+[15:29:39] 
+[15:29:39]  ===============================
+[15:29:39] 
+[15:29:39]   Loaded.
+[15:29:39]  Loading plugin: mysql
+[15:29:39]  >> plugin.mysql: R41-4 successfully loaded.
+[15:29:39]   Loaded.
+[15:29:39]  Loaded 2 plugins.
+
+[15:29:39] 
+[15:29:39] Filterscripts
+[15:29:39] ---------------
+[15:29:39]   Loading filterscript 'flymode.amx'...
+[15:29:39]   Loaded 1 filterscripts.
+
+[15:29:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:29:39] [DB] Connected to database successfully
+[15:29:39] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:29:39] 
+----------------------------------
+[15:29:39]   Bare Script
+
+[15:29:39] ----------------------------------
+
+[15:29:39] Number of vehicle models: 0
+[15:29:40] 7 houses loaded
+[15:30:04] [connection] incoming connection: 127.0.0.1:51018 id: 0
+[15:30:04] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:30:04] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:30:04] OnCheckSessionLoaded
+[15:30:11] Validating 1 owner vs playerid 0 == 0
+[15:30:17] Validating 1 owner vs playerid 0 == 0
+[15:30:27] Validating 1 owner vs playerid 0 == 0
+[15:30:27] [part] Ivan_Pistolas has left the server (0:1)
+[15:31:04] --- Server Shutting Down.
+[15:31:04] 
+[15:31:04]  ===============================
+[15:31:04] 
+[15:31:04]      sscanf plugin unloaded.    
+[15:31:04] 
+[15:31:04]  ===============================
+[15:31:04] 
+[15:31:04] plugin.mysql: Unloading plugin...
+[15:31:04] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:31:06] 
+[15:31:06] Server Plugins
+[15:31:06] --------------
+[15:31:06]  Loading plugin: sscanf
+[15:31:06] 
+[15:31:06]  ===============================
+[15:31:06] 
+[15:31:06]       sscanf plugin loaded.     
+[15:31:06] 
+[15:31:06]          Version: 2.13.8
+[15:31:06] 
+[15:31:06]    (c) 2022 Alex "Y_Less" Cole  
+[15:31:06] 
+[15:31:06]  ===============================
+[15:31:06] 
+[15:31:06]   Loaded.
+[15:31:06]  Loading plugin: mysql
+[15:31:06]  >> plugin.mysql: R41-4 successfully loaded.
+[15:31:06]   Loaded.
+[15:31:06]  Loaded 2 plugins.
+
+[15:31:06] 
+[15:31:06] Filterscripts
+[15:31:06] ---------------
+[15:31:06]   Loading filterscript 'flymode.amx'...
+[15:31:06]   Loaded 1 filterscripts.
+
+[15:31:06] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:31:06] [DB] Connected to database successfully
+[15:31:06] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:31:06] 
+----------------------------------
+[15:31:06]   Bare Script
+
+[15:31:06] ----------------------------------
+
+[15:31:06] Number of vehicle models: 0
+[15:31:06] 7 houses loaded
+[15:31:28] [connection] incoming connection: 127.0.0.1:65224 id: 0
+[15:31:28] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:31:28] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:31:28] OnCheckSessionLoaded
+[15:31:50] [death] Ivan_Pistolas died 54
+[15:31:58] Validating 0 owner vs playerid 13 == 0
+[15:32:37] --- Server Shutting Down.
+[15:32:37] [part] Ivan_Pistolas has left the server (0:0)
+[15:32:37] 
+[15:32:37]  ===============================
+[15:32:37] 
+[15:32:37]      sscanf plugin unloaded.    
+[15:32:37] 
+[15:32:37]  ===============================
+[15:32:37] 
+[15:32:37] plugin.mysql: Unloading plugin...
+[15:32:37] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:32:50] 
+[15:32:50] Server Plugins
+[15:32:50] --------------
+[15:32:50]  Loading plugin: sscanf
+[15:32:50] 
+[15:32:50]  ===============================
+[15:32:50] 
+[15:32:50]       sscanf plugin loaded.     
+[15:32:50] 
+[15:32:50]          Version: 2.13.8
+[15:32:50] 
+[15:32:50]    (c) 2022 Alex "Y_Less" Cole  
+[15:32:50] 
+[15:32:50]  ===============================
+[15:32:50] 
+[15:32:50]   Loaded.
+[15:32:50]  Loading plugin: mysql
+[15:32:50]  >> plugin.mysql: R41-4 successfully loaded.
+[15:32:50]   Loaded.
+[15:32:50]  Loaded 2 plugins.
+
+[15:32:50] 
+[15:32:50] Filterscripts
+[15:32:50] ---------------
+[15:32:50]   Loading filterscript 'flymode.amx'...
+[15:32:50]   Loaded 1 filterscripts.
+
+[15:32:50] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:32:50] [DB] Connected to database successfully
+[15:32:50] SELECT id, x, y, z, price, name, description, owner, interior_id, interior_x, interior_y, interior_z, virtual_world FROM houses;
+[15:32:50] 
+----------------------------------
+[15:32:50]   Bare Script
+
+[15:32:50] ----------------------------------
+
+[15:32:50] Number of vehicle models: 0
+[15:32:50] 7 houses loaded
+[15:33:27] [connection] incoming connection: 127.0.0.1:55756 id: 0
+[15:33:27] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:33:27] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:33:27] OnCheckSessionLoaded
+[15:33:49] [death] Ivan_Pistolas died 54
+[15:33:59] Validating 0 owner vs playerid 13 == 0
+[15:34:04] Validating 1 owner vs playerid 0 == 0
+[15:34:08] Validating 1 owner vs playerid 0 == 0
+[15:34:16] Validating 0 owner vs playerid 13 == 0
+[15:34:19] [chat] [Ivan_Pistolas]: q/
+[15:34:19] [part] Ivan_Pistolas has left the server (0:1)
+[15:46:38] --- Server Shutting Down.
+[15:46:38] 
+[15:46:38]  ===============================
+[15:46:38] 
+[15:46:38]      sscanf plugin unloaded.    
+[15:46:38] 
+[15:46:38]  ===============================
+[15:46:38] 
+[15:46:38] plugin.mysql: Unloading plugin...
+[15:46:38] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:50:35] 
+[15:50:35] Server Plugins
+[15:50:35] --------------
+[15:50:35]  Loading plugin: sscanf
+[15:50:35] 
+[15:50:35]  ===============================
+[15:50:35] 
+[15:50:35]       sscanf plugin loaded.     
+[15:50:35] 
+[15:50:35]          Version: 2.13.8
+[15:50:35] 
+[15:50:35]    (c) 2022 Alex "Y_Less" Cole  
+[15:50:35] 
+[15:50:35]  ===============================
+[15:50:35] 
+[15:50:35]   Loaded.
+[15:50:35]  Loading plugin: mysql
+[15:50:35]  >> plugin.mysql: R41-4 successfully loaded.
+[15:50:35]   Loaded.
+[15:50:35]  Loaded 2 plugins.
+
+[15:50:35] 
+[15:50:35] Filterscripts
+[15:50:35] ---------------
+[15:50:35]   Loading filterscript 'flymode.amx'...
+[15:50:35]   Loaded 1 filterscripts.
+
+[15:50:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:50:35] [DB] Connected to database successfully
+[15:50:35] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[15:50:35] 
+----------------------------------
+[15:50:35]   Bare Script
+
+[15:50:35] ----------------------------------
+
+[15:50:35] Number of vehicle models: 0
+[15:50:35] 7 houses loaded
+[15:50:58] [connection] incoming connection: 127.0.0.1:57285 id: 0
+[15:50:58] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:50:58] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:50:58] OnCheckSessionLoaded
+[15:51:16] [part] Ivan_Pistolas has left the server (0:1)
+[15:51:23] --- Server Shutting Down.
+[15:51:23] 
+[15:51:23]  ===============================
+[15:51:23] 
+[15:51:23]      sscanf plugin unloaded.    
+[15:51:23] 
+[15:51:23]  ===============================
+[15:51:23] 
+[15:51:23] plugin.mysql: Unloading plugin...
+[15:51:23] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:51:39] 
+[15:51:39] Server Plugins
+[15:51:39] --------------
+[15:51:39]  Loading plugin: sscanf
+[15:51:39] 
+[15:51:39]  ===============================
+[15:51:39] 
+[15:51:39]       sscanf plugin loaded.     
+[15:51:39] 
+[15:51:39]          Version: 2.13.8
+[15:51:39] 
+[15:51:39]    (c) 2022 Alex "Y_Less" Cole  
+[15:51:39] 
+[15:51:39]  ===============================
+[15:51:39] 
+[15:51:39]   Loaded.
+[15:51:39]  Loading plugin: mysql
+[15:51:39]  >> plugin.mysql: R41-4 successfully loaded.
+[15:51:39]   Loaded.
+[15:51:39]  Loaded 2 plugins.
+
+[15:51:39] 
+[15:51:39] Filterscripts
+[15:51:39] ---------------
+[15:51:39]   Loading filterscript 'flymode.amx'...
+[15:51:40]   Loaded 1 filterscripts.
+
+[15:51:40] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:51:40] [DB] Connected to database successfully
+[15:51:40] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[15:51:40] 
+----------------------------------
+[15:51:40]   Bare Script
+
+[15:51:40] ----------------------------------
+
+[15:51:40] Number of vehicle models: 0
+[15:51:40] 7 houses loaded
+[15:52:01] [connection] incoming connection: 127.0.0.1:60405 id: 0
+[15:52:01] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:52:01] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:52:01] OnCheckSessionLoaded
+[15:52:22] [death] Ivan_Pistolas died 54
+[15:52:44] [part] Ivan_Pistolas has left the server (0:1)
+[15:53:17] --- Server Shutting Down.
+[15:53:17] 
+[15:53:17]  ===============================
+[15:53:17] 
+[15:53:17]      sscanf plugin unloaded.    
+[15:53:17] 
+[15:53:17]  ===============================
+[15:53:17] 
+[15:53:17] plugin.mysql: Unloading plugin...
+[15:53:17] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:53:22] 
+[15:53:22] Server Plugins
+[15:53:22] --------------
+[15:53:22]  Loading plugin: sscanf
+[15:53:22] 
+[15:53:22]  ===============================
+[15:53:22] 
+[15:53:22]       sscanf plugin loaded.     
+[15:53:22] 
+[15:53:22]          Version: 2.13.8
+[15:53:22] 
+[15:53:22]    (c) 2022 Alex "Y_Less" Cole  
+[15:53:22] 
+[15:53:22]  ===============================
+[15:53:22] 
+[15:53:22]   Loaded.
+[15:53:22]  Loading plugin: mysql
+[15:53:22]  >> plugin.mysql: R41-4 successfully loaded.
+[15:53:22]   Loaded.
+[15:53:22]  Loaded 2 plugins.
+
+[15:53:22] 
+[15:53:22] Filterscripts
+[15:53:22] ---------------
+[15:53:22]   Loading filterscript 'flymode.amx'...
+[15:53:22]   Loaded 1 filterscripts.
+
+[15:53:22] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:53:22] [DB] Connected to database successfully
+[15:53:22] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[15:53:22] 
+----------------------------------
+[15:53:22]   Bare Script
+
+[15:53:22] ----------------------------------
+
+[15:53:22] Number of vehicle models: 0
+[15:53:22] 7 houses loaded
+[15:53:53] [connection] incoming connection: 127.0.0.1:56436 id: 0
+[15:53:54] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[15:53:54] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[15:53:54] OnCheckSessionLoaded
+[15:54:09] [part] Ivan_Pistolas has left the server (0:1)
+[15:55:03] --- Server Shutting Down.
+[15:55:03] 
+[15:55:03]  ===============================
+[15:55:03] 
+[15:55:03]      sscanf plugin unloaded.    
+[15:55:03] 
+[15:55:03]  ===============================
+[15:55:03] 
+[15:55:03] plugin.mysql: Unloading plugin...
+[15:55:03] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:55:07] 
+[15:55:07] Server Plugins
+[15:55:07] --------------
+[15:55:07]  Loading plugin: sscanf
+[15:55:07] 
+[15:55:07]  ===============================
+[15:55:07] 
+[15:55:07]       sscanf plugin loaded.     
+[15:55:07] 
+[15:55:07]          Version: 2.13.8
+[15:55:07] 
+[15:55:07]    (c) 2022 Alex "Y_Less" Cole  
+[15:55:07] 
+[15:55:07]  ===============================
+[15:55:07] 
+[15:55:07]   Loaded.
+[15:55:07]  Loading plugin: mysql
+[15:55:07]  >> plugin.mysql: R41-4 successfully loaded.
+[15:55:07]   Loaded.
+[15:55:07]  Loaded 2 plugins.
+
+[15:55:07] 
+[15:55:07] Filterscripts
+[15:55:07] ---------------
+[15:55:07]   Loading filterscript 'flymode.amx'...
+[15:55:07]   Loaded 1 filterscripts.
+
+[15:55:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:55:07] [DB] Connected to database successfully
+[15:55:07] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[15:55:07] 
+----------------------------------
+[15:55:07]   Bare Script
+
+[15:55:07] ----------------------------------
+
+[15:55:07] Number of vehicle models: 0
+[15:55:07] 7 houses loaded
+[15:55:37] --- Server Shutting Down.
+[15:55:37] 
+[15:55:37]  ===============================
+[15:55:37] 
+[15:55:37]      sscanf plugin unloaded.    
+[15:55:37] 
+[15:55:37]  ===============================
+[15:55:37] 
+[15:55:37] plugin.mysql: Unloading plugin...
+[15:55:37] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:05:05] 
+[17:05:05] Server Plugins
+[17:05:05] --------------
+[17:05:05]  Loading plugin: sscanf
+[17:05:05] 
+[17:05:05]  ===============================
+[17:05:05] 
+[17:05:05]       sscanf plugin loaded.     
+[17:05:05] 
+[17:05:05]          Version: 2.13.8
+[17:05:05] 
+[17:05:05]    (c) 2022 Alex "Y_Less" Cole  
+[17:05:05] 
+[17:05:05]  ===============================
+[17:05:05] 
+[17:05:05]   Loaded.
+[17:05:05]  Loading plugin: mysql
+[17:05:05]  >> plugin.mysql: R41-4 successfully loaded.
+[17:05:05]   Loaded.
+[17:05:05]  Loaded 2 plugins.
+
+[17:05:05] 
+[17:05:05] Filterscripts
+[17:05:05] ---------------
+[17:05:05]   Loading filterscript 'flymode.amx'...
+[17:05:05]   Loaded 1 filterscripts.
+
+[17:05:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:05:05] [DB] Connected to database successfully
+[17:05:05] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[17:05:05] 
+----------------------------------
+[17:05:05]   Bare Script
+
+[17:05:05] ----------------------------------
+
+[17:05:05] Number of vehicle models: 0
+[17:05:05] 7 houses loaded
+[17:05:28] [connection] incoming connection: 127.0.0.1:64438 id: 0
+[17:05:29] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[17:05:29] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[17:05:29] OnCheckSessionLoaded
+[17:05:50] [death] Ivan_Pistolas died 54
+[17:09:33] [part] Ivan_Pistolas has left the server (0:1)
+[17:15:13] --- Server Shutting Down.
+[17:15:13] 
+[17:15:13]  ===============================
+[17:15:13] 
+[17:15:13]      sscanf plugin unloaded.    
+[17:15:13] 
+[17:15:13]  ===============================
+[17:15:13] 
+[17:15:13] plugin.mysql: Unloading plugin...
+[17:15:13] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:00:14] 
+[18:00:14] Server Plugins
+[18:00:14] --------------
+[18:00:14]  Loading plugin: sscanf
+[18:00:14] 
+[18:00:14]  ===============================
+[18:00:14] 
+[18:00:14]       sscanf plugin loaded.     
+[18:00:14] 
+[18:00:14]          Version: 2.13.8
+[18:00:14] 
+[18:00:14]    (c) 2022 Alex "Y_Less" Cole  
+[18:00:14] 
+[18:00:14]  ===============================
+[18:00:14] 
+[18:00:14]   Loaded.
+[18:00:14]  Loading plugin: mysql
+[18:00:14]  >> plugin.mysql: R41-4 successfully loaded.
+[18:00:14]   Loaded.
+[18:00:14]  Loaded 2 plugins.
+
+[18:00:14] 
+[18:00:14] Filterscripts
+[18:00:14] ---------------
+[18:00:14]   Loading filterscript 'flymode.amx'...
+[18:00:15]   Loaded 1 filterscripts.
+
+[18:00:15] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:00:15] [DB] Connected to database successfully
+[18:00:15] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:00:15] 
+----------------------------------
+[18:00:15]   Bare Script
+
+[18:00:15] ----------------------------------
+
+[18:00:15] Number of vehicle models: 0
+[18:00:15] 7 houses loaded
+[18:00:48] [connection] incoming connection: 127.0.0.1:53249 id: 0
+[18:00:48] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:00:48] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:00:48] OnCheckSessionLoaded
+[18:01:11] [death] Ivan_Pistolas died 54
+[18:01:48] [part] Ivan_Pistolas has left the server (0:1)
+[18:02:34] --- Server Shutting Down.
+[18:02:34] 
+[18:02:34]  ===============================
+[18:02:34] 
+[18:02:34]      sscanf plugin unloaded.    
+[18:02:34] 
+[18:02:34]  ===============================
+[18:02:34] 
+[18:02:34] plugin.mysql: Unloading plugin...
+[18:02:34] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:02:38] 
+[18:02:38] Server Plugins
+[18:02:38] --------------
+[18:02:38]  Loading plugin: sscanf
+[18:02:38] 
+[18:02:38]  ===============================
+[18:02:38] 
+[18:02:38]       sscanf plugin loaded.     
+[18:02:38] 
+[18:02:38]          Version: 2.13.8
+[18:02:38] 
+[18:02:38]    (c) 2022 Alex "Y_Less" Cole  
+[18:02:38] 
+[18:02:38]  ===============================
+[18:02:38] 
+[18:02:38]   Loaded.
+[18:02:38]  Loading plugin: mysql
+[18:02:38]  >> plugin.mysql: R41-4 successfully loaded.
+[18:02:38]   Loaded.
+[18:02:38]  Loaded 2 plugins.
+
+[18:02:38] 
+[18:02:38] Filterscripts
+[18:02:38] ---------------
+[18:02:38]   Loading filterscript 'flymode.amx'...
+[18:02:38]   Loaded 1 filterscripts.
+
+[18:02:38] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:02:38] [DB] Connected to database successfully
+[18:02:38] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:02:38] 
+----------------------------------
+[18:02:38]   Bare Script
+
+[18:02:38] ----------------------------------
+
+[18:02:38] Number of vehicle models: 1
+[18:02:38] 7 houses loaded
+[18:02:59] [connection] incoming connection: 127.0.0.1:53868 id: 0
+[18:02:59] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:02:59] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:02:59] OnCheckSessionLoaded
+[18:03:21] [death] Ivan_Pistolas died 54
+[18:03:54] 1105.118041, 1877.649658, 10.820312
+[18:03:56] [part] Ivan_Pistolas has left the server (0:1)
+[18:06:02] --- Server Shutting Down.
+[18:06:02] 
+[18:06:02]  ===============================
+[18:06:02] 
+[18:06:02]      sscanf plugin unloaded.    
+[18:06:02] 
+[18:06:02]  ===============================
+[18:06:02] 
+[18:06:02] plugin.mysql: Unloading plugin...
+[18:06:02] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:09:03] 
+[18:09:03] Server Plugins
+[18:09:03] --------------
+[18:09:03]  Loading plugin: sscanf
+[18:09:03] 
+[18:09:03]  ===============================
+[18:09:03] 
+[18:09:03]       sscanf plugin loaded.     
+[18:09:03] 
+[18:09:03]          Version: 2.13.8
+[18:09:03] 
+[18:09:03]    (c) 2022 Alex "Y_Less" Cole  
+[18:09:03] 
+[18:09:03]  ===============================
+[18:09:03] 
+[18:09:03]   Loaded.
+[18:09:03]  Loading plugin: mysql
+[18:09:03]  >> plugin.mysql: R41-4 successfully loaded.
+[18:09:03]   Loaded.
+[18:09:03]  Loaded 2 plugins.
+
+[18:09:03] 
+[18:09:03] Filterscripts
+[18:09:03] ---------------
+[18:09:03]   Loading filterscript 'flymode.amx'...
+[18:09:03]   Loaded 1 filterscripts.
+
+[18:09:03] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:09:03] [DB] Connected to database successfully
+[18:09:03] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:09:03] 
+----------------------------------
+[18:09:03]   Bare Script
+
+[18:09:03] ----------------------------------
+
+[18:09:03] Number of vehicle models: 1
+[18:09:04] 7 houses loaded
+[18:09:31] [connection] incoming connection: 127.0.0.1:49314 id: 0
+[18:09:31] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:09:31] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:09:31] OnCheckSessionLoaded
+[18:09:47] [part] Ivan_Pistolas has left the server (0:1)
+[18:09:59] --- Server Shutting Down.
+[18:09:59] 
+[18:09:59]  ===============================
+[18:09:59] 
+[18:09:59]      sscanf plugin unloaded.    
+[18:09:59] 
+[18:09:59]  ===============================
+[18:09:59] 
+[18:09:59] plugin.mysql: Unloading plugin...
+[18:09:59] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:10:02] 
+[18:10:02] Server Plugins
+[18:10:02] --------------
+[18:10:02]  Loading plugin: sscanf
+[18:10:02] 
+[18:10:02]  ===============================
+[18:10:02] 
+[18:10:02]       sscanf plugin loaded.     
+[18:10:02] 
+[18:10:02]          Version: 2.13.8
+[18:10:02] 
+[18:10:02]    (c) 2022 Alex "Y_Less" Cole  
+[18:10:02] 
+[18:10:02]  ===============================
+[18:10:02] 
+[18:10:02]   Loaded.
+[18:10:02]  Loading plugin: mysql
+[18:10:02]  >> plugin.mysql: R41-4 successfully loaded.
+[18:10:02]   Loaded.
+[18:10:02]  Loaded 2 plugins.
+
+[18:10:03] 
+[18:10:03] Filterscripts
+[18:10:03] ---------------
+[18:10:03]   Loading filterscript 'flymode.amx'...
+[18:10:03]   Loaded 1 filterscripts.
+
+[18:10:03] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:10:03] [DB] Connected to database successfully
+[18:10:03] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:10:03] 
+----------------------------------
+[18:10:03]   Bare Script
+
+[18:10:03] ----------------------------------
+
+[18:10:03] Number of vehicle models: 1
+[18:10:03] 7 houses loaded
+[18:10:24] [connection] incoming connection: 127.0.0.1:62177 id: 0
+[18:10:24] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:10:24] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:10:24] OnCheckSessionLoaded
+[18:10:35] [part] Ivan_Pistolas has left the server (0:1)
+[18:11:58] --- Server Shutting Down.
+[18:11:58] 
+[18:11:58]  ===============================
+[18:11:58] 
+[18:11:58]      sscanf plugin unloaded.    
+[18:11:58] 
+[18:11:58]  ===============================
+[18:11:58] 
+[18:11:58] plugin.mysql: Unloading plugin...
+[18:11:58] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:12:02] 
+[18:12:02] Server Plugins
+[18:12:02] --------------
+[18:12:02]  Loading plugin: sscanf
+[18:12:02] 
+[18:12:02]  ===============================
+[18:12:02] 
+[18:12:02]       sscanf plugin loaded.     
+[18:12:02] 
+[18:12:02]          Version: 2.13.8
+[18:12:02] 
+[18:12:02]    (c) 2022 Alex "Y_Less" Cole  
+[18:12:02] 
+[18:12:02]  ===============================
+[18:12:02] 
+[18:12:02]   Loaded.
+[18:12:02]  Loading plugin: mysql
+[18:12:02]  >> plugin.mysql: R41-4 successfully loaded.
+[18:12:02]   Loaded.
+[18:12:02]  Loaded 2 plugins.
+
+[18:12:02] 
+[18:12:02] Filterscripts
+[18:12:02] ---------------
+[18:12:02]   Loading filterscript 'flymode.amx'...
+[18:12:02]   Loaded 1 filterscripts.
+
+[18:12:02] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:12:02] [DB] Connected to database successfully
+[18:12:02] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:12:02] 
+----------------------------------
+[18:12:02]   Bare Script
+
+[18:12:02] ----------------------------------
+
+[18:12:02] Number of vehicle models: 1
+[18:12:02] 7 houses loaded
+[18:12:23] [connection] incoming connection: 127.0.0.1:59653 id: 0
+[18:12:23] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:12:23] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:12:23] OnCheckSessionLoaded
+[18:13:54] [part] Ivan_Pistolas has left the server (0:1)
+[18:14:50] --- Server Shutting Down.
+[18:14:50] 
+[18:14:50]  ===============================
+[18:14:50] 
+[18:14:50]      sscanf plugin unloaded.    
+[18:14:50] 
+[18:14:50]  ===============================
+[18:14:50] 
+[18:14:50] plugin.mysql: Unloading plugin...
+[18:14:50] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:14:54] 
+[18:14:54] Server Plugins
+[18:14:54] --------------
+[18:14:54]  Loading plugin: sscanf
+[18:14:54] 
+[18:14:54]  ===============================
+[18:14:54] 
+[18:14:54]       sscanf plugin loaded.     
+[18:14:54] 
+[18:14:54]          Version: 2.13.8
+[18:14:54] 
+[18:14:54]    (c) 2022 Alex "Y_Less" Cole  
+[18:14:54] 
+[18:14:54]  ===============================
+[18:14:54] 
+[18:14:54]   Loaded.
+[18:14:54]  Loading plugin: mysql
+[18:14:54]  >> plugin.mysql: R41-4 successfully loaded.
+[18:14:54]   Loaded.
+[18:14:54]  Loaded 2 plugins.
+
+[18:14:54] 
+[18:14:54] Filterscripts
+[18:14:54] ---------------
+[18:14:54]   Loading filterscript 'flymode.amx'...
+[18:14:54]   Loaded 1 filterscripts.
+
+[18:14:54] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:14:54] [DB] Connected to database successfully
+[18:14:54] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:14:54] 
+----------------------------------
+[18:14:54]   Bare Script
+
+[18:14:54] ----------------------------------
+
+[18:14:54] Number of vehicle models: 1
+[18:14:54] 7 houses loaded
+[18:15:16] [connection] incoming connection: 127.0.0.1:52235 id: 0
+[18:15:16] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:15:16] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:15:16] OnCheckSessionLoaded
+[18:15:28] [part] Ivan_Pistolas has left the server (0:1)
+[18:15:34] --- Server Shutting Down.
+[18:15:34] 
+[18:15:34]  ===============================
+[18:15:34] 
+[18:15:34]      sscanf plugin unloaded.    
+[18:15:34] 
+[18:15:34]  ===============================
+[18:15:34] 
+[18:15:34] plugin.mysql: Unloading plugin...
+[18:15:34] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:20:19] 
+[18:20:19] Server Plugins
+[18:20:19] --------------
+[18:20:19]  Loading plugin: sscanf
+[18:20:19] 
+[18:20:19]  ===============================
+[18:20:19] 
+[18:20:19]       sscanf plugin loaded.     
+[18:20:19] 
+[18:20:19]          Version: 2.13.8
+[18:20:19] 
+[18:20:19]    (c) 2022 Alex "Y_Less" Cole  
+[18:20:19] 
+[18:20:19]  ===============================
+[18:20:19] 
+[18:20:19]   Loaded.
+[18:20:19]  Loading plugin: mysql
+[18:20:19]  >> plugin.mysql: R41-4 successfully loaded.
+[18:20:19]   Loaded.
+[18:20:19]  Loaded 2 plugins.
+
+[18:20:19] 
+[18:20:19] Filterscripts
+[18:20:19] ---------------
+[18:20:19]   Loading filterscript 'flymode.amx'...
+[18:20:20]   Loaded 1 filterscripts.
+
+[18:20:20] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:20:20] [DB] Connected to database successfully
+[18:20:20] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:20:20] 
+----------------------------------
+[18:20:20]   Bare Script
+
+[18:20:20] ----------------------------------
+
+[18:20:20] Number of vehicle models: 1
+[18:20:20] 7 houses loaded
+[18:20:20] --- Server Shutting Down.
+[18:20:20] 
+[18:20:20]  ===============================
+[18:20:20] 
+[18:20:20]      sscanf plugin unloaded.    
+[18:20:20] 
+[18:20:20]  ===============================
+[18:20:20] 
+[18:20:20] plugin.mysql: Unloading plugin...
+[18:20:20] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:22:21] 
+[18:22:21] Server Plugins
+[18:22:21] --------------
+[18:22:21]  Loading plugin: sscanf
+[18:22:21] 
+[18:22:21]  ===============================
+[18:22:21] 
+[18:22:21]       sscanf plugin loaded.     
+[18:22:21] 
+[18:22:21]          Version: 2.13.8
+[18:22:21] 
+[18:22:21]    (c) 2022 Alex "Y_Less" Cole  
+[18:22:21] 
+[18:22:21]  ===============================
+[18:22:21] 
+[18:22:21]   Loaded.
+[18:22:21]  Loading plugin: mysql
+[18:22:21]  >> plugin.mysql: R41-4 successfully loaded.
+[18:22:21]   Loaded.
+[18:22:21]  Loaded 2 plugins.
+
+[18:22:21] 
+[18:22:21] Filterscripts
+[18:22:21] ---------------
+[18:22:21]   Loading filterscript 'flymode.amx'...
+[18:22:21]   Loaded 1 filterscripts.
+
+[18:22:21] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:22:21] [DB] Connected to database successfully
+[18:22:21] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:22:21] 
+----------------------------------
+[18:22:21]   Bare Script
+
+[18:22:21] ----------------------------------
+
+[18:22:21] Number of vehicle models: 1
+[18:22:21] 7 houses loaded
+[18:22:21] --- Server Shutting Down.
+[18:22:21] 
+[18:22:21]  ===============================
+[18:22:21] 
+[18:22:21]      sscanf plugin unloaded.    
+[18:22:21] 
+[18:22:21]  ===============================
+[18:22:21] 
+[18:22:21] plugin.mysql: Unloading plugin...
+[18:22:21] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:38:42] 
+[18:38:42] Server Plugins
+[18:38:42] --------------
+[18:38:42]  Loading plugin: sscanf
+[18:38:42] 
+[18:38:42]  ===============================
+[18:38:42] 
+[18:38:42]       sscanf plugin loaded.     
+[18:38:42] 
+[18:38:42]          Version: 2.13.8
+[18:38:42] 
+[18:38:42]    (c) 2022 Alex "Y_Less" Cole  
+[18:38:42] 
+[18:38:42]  ===============================
+[18:38:42] 
+[18:38:42]   Loaded.
+[18:38:42]  Loading plugin: mysql
+[18:38:42]  >> plugin.mysql: R41-4 successfully loaded.
+[18:38:42]   Loaded.
+[18:38:42]  Loaded 2 plugins.
+
+[18:38:42] 
+[18:38:42] Filterscripts
+[18:38:42] ---------------
+[18:38:42]   Loading filterscript 'flymode.amx'...
+[18:38:42]   Loaded 1 filterscripts.
+
+[18:38:42] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:38:42] [DB] Connected to database successfully
+[18:38:42] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:38:42] 
+----------------------------------
+[18:38:42]   Bare Script
+
+[18:38:42] ----------------------------------
+
+[18:38:42] Number of vehicle models: 1
+[18:38:42] 7 houses loaded
+[18:39:04] [connection] incoming connection: 127.0.0.1:58278 id: 0
+[18:39:04] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:39:04] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:39:04] OnCheckSessionLoaded
+[18:39:26] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String/array must include a length, please add a destination size."
+[18:39:26] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String buffer overflow."
+[18:39:31] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String/array must include a length, please add a destination size."
+[18:39:31] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String buffer overflow."
+[18:39:46] [part] Ivan_Pistolas has left the server (0:1)
+[18:40:08] --- Server Shutting Down.
+[18:40:08] 
+[18:40:08]  ===============================
+[18:40:08] 
+[18:40:08]      sscanf plugin unloaded.    
+[18:40:08] 
+[18:40:08]  ===============================
+[18:40:08] 
+[18:40:08] plugin.mysql: Unloading plugin...
+[18:40:08] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:40:11] 
+[18:40:11] Server Plugins
+[18:40:11] --------------
+[18:40:11]  Loading plugin: sscanf
+[18:40:11] 
+[18:40:11]  ===============================
+[18:40:11] 
+[18:40:11]       sscanf plugin loaded.     
+[18:40:11] 
+[18:40:11]          Version: 2.13.8
+[18:40:11] 
+[18:40:11]    (c) 2022 Alex "Y_Less" Cole  
+[18:40:11] 
+[18:40:11]  ===============================
+[18:40:11] 
+[18:40:11]   Loaded.
+[18:40:11]  Loading plugin: mysql
+[18:40:11]  >> plugin.mysql: R41-4 successfully loaded.
+[18:40:11]   Loaded.
+[18:40:11]  Loaded 2 plugins.
+
+[18:40:11] 
+[18:40:11] Filterscripts
+[18:40:11] ---------------
+[18:40:11]   Loading filterscript 'flymode.amx'...
+[18:40:11]   Loaded 1 filterscripts.
+
+[18:40:11] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:40:11] [DB] Connected to database successfully
+[18:40:11] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:40:11] 
+----------------------------------
+[18:40:11]   Bare Script
+
+[18:40:11] ----------------------------------
+
+[18:40:11] Number of vehicle models: 1
+[18:40:11] 7 houses loaded
+[18:40:33] [connection] incoming connection: 127.0.0.1:49617 id: 0
+[18:40:33] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:40:33] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:40:33] OnCheckSessionLoaded
+[18:40:46] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String/array must include a length, please add a destination size."
+[18:40:46] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String buffer overflow."
+[18:40:51] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String/array must include a length, please add a destination size."
+[18:40:51] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String buffer overflow."
+[18:41:21] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String/array must include a length, please add a destination size."
+[18:41:21] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:428): "String buffer overflow."
+[18:41:22] [part] Ivan_Pistolas has left the server (0:1)
+[18:48:04] --- Server Shutting Down.
+[18:48:04] 
+[18:48:04]  ===============================
+[18:48:04] 
+[18:48:04]      sscanf plugin unloaded.    
+[18:48:04] 
+[18:48:04]  ===============================
+[18:48:04] 
+[18:48:04] plugin.mysql: Unloading plugin...
+[18:48:04] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:49:47] 
+[18:49:47] Server Plugins
+[18:49:47] --------------
+[18:49:47]  Loading plugin: sscanf
+[18:49:47] 
+[18:49:47]  ===============================
+[18:49:47] 
+[18:49:47]       sscanf plugin loaded.     
+[18:49:47] 
+[18:49:47]          Version: 2.13.8
+[18:49:47] 
+[18:49:47]    (c) 2022 Alex "Y_Less" Cole  
+[18:49:47] 
+[18:49:47]  ===============================
+[18:49:47] 
+[18:49:47]   Loaded.
+[18:49:47]  Loading plugin: mysql
+[18:49:47]  >> plugin.mysql: R41-4 successfully loaded.
+[18:49:47]   Loaded.
+[18:49:47]  Loading plugin: streamer
+[18:49:47] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:49:47]   Loaded.
+[18:49:47]  Loaded 3 plugins.
+
+[18:49:47] 
+[18:49:47] Filterscripts
+[18:49:47] ---------------
+[18:49:47]   Loading filterscript 'flymode.amx'...
+[18:49:48]   Loaded 1 filterscripts.
+
+[18:49:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:49:48] [DB] Connected to database successfully
+[18:49:48] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:49:48] 
+----------------------------------
+[18:49:48]   Bare Script
+
+[18:49:48] ----------------------------------
+
+[18:49:48] Number of vehicle models: 1
+[18:49:48] 7 houses loaded
+[18:50:09] [connection] incoming connection: 127.0.0.1:53059 id: 0
+[18:50:09] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:50:09] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:50:09] OnCheckSessionLoaded
+[18:50:22] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:430): "String/array must include a length, please add a destination size."
+[18:50:22] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:430): "String buffer overflow."
+[18:50:49] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:430): "String/array must include a length, please add a destination size."
+[18:50:49] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:430): "String buffer overflow."
+[18:50:51] [part] Ivan_Pistolas has left the server (0:1)
+[18:51:37] --- Server Shutting Down.
+[18:51:37] 
+[18:51:37]  ===============================
+[18:51:37] 
+[18:51:37]      sscanf plugin unloaded.    
+[18:51:37] 
+[18:51:37]  ===============================
+[18:51:37] 
+[18:51:37] plugin.mysql: Unloading plugin...
+[18:51:37] plugin.mysql: Plugin unloaded.
+[18:51:37] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:53:11] 
+[18:53:11] Server Plugins
+[18:53:11] --------------
+[18:53:11]  Loading plugin: sscanf
+[18:53:11] 
+[18:53:11]  ===============================
+[18:53:11] 
+[18:53:11]       sscanf plugin loaded.     
+[18:53:11] 
+[18:53:11]          Version: 2.13.8
+[18:53:11] 
+[18:53:11]    (c) 2022 Alex "Y_Less" Cole  
+[18:53:11] 
+[18:53:11]  ===============================
+[18:53:11] 
+[18:53:11]   Loaded.
+[18:53:11]  Loading plugin: mysql
+[18:53:11]  >> plugin.mysql: R41-4 successfully loaded.
+[18:53:11]   Loaded.
+[18:53:11]  Loading plugin: streamer
+[18:53:11] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:53:11]   Loaded.
+[18:53:11]  Loaded 3 plugins.
+
+[18:53:11] 
+[18:53:11] Filterscripts
+[18:53:11] ---------------
+[18:53:11]   Loading filterscript 'flymode.amx'...
+[18:53:11]   Loaded 1 filterscripts.
+
+[18:53:11] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:53:11] [DB] Connected to database successfully
+[18:53:11] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:53:11] 
+----------------------------------
+[18:53:11]   Bare Script
+
+[18:53:11] ----------------------------------
+
+[18:53:11] Number of vehicle models: 1
+[18:53:11] 7 houses loaded
+[18:53:26] --- Server Shutting Down.
+[18:53:26] 
+[18:53:26]  ===============================
+[18:53:26] 
+[18:53:26]      sscanf plugin unloaded.    
+[18:53:26] 
+[18:53:26]  ===============================
+[18:53:26] 
+[18:53:26] plugin.mysql: Unloading plugin...
+[18:53:26] plugin.mysql: Plugin unloaded.
+[18:53:26] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:53:30] 
+[18:53:30] Server Plugins
+[18:53:30] --------------
+[18:53:30]  Loading plugin: sscanf
+[18:53:30] 
+[18:53:30]  ===============================
+[18:53:30] 
+[18:53:30]       sscanf plugin loaded.     
+[18:53:30] 
+[18:53:30]          Version: 2.13.8
+[18:53:30] 
+[18:53:30]    (c) 2022 Alex "Y_Less" Cole  
+[18:53:30] 
+[18:53:30]  ===============================
+[18:53:30] 
+[18:53:30]   Loaded.
+[18:53:30]  Loading plugin: mysql
+[18:53:30]  >> plugin.mysql: R41-4 successfully loaded.
+[18:53:30]   Loaded.
+[18:53:30]  Loading plugin: streamer
+[18:53:30] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:53:30]   Loaded.
+[18:53:30]  Loaded 3 plugins.
+
+[18:53:30] 
+[18:53:30] Filterscripts
+[18:53:30] ---------------
+[18:53:30]   Loading filterscript 'flymode.amx'...
+[18:53:30]   Loaded 1 filterscripts.
+
+[18:53:30] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:53:30] [DB] Connected to database successfully
+[18:53:30] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[18:53:30] 
+----------------------------------
+[18:53:30]   Bare Script
+
+[18:53:30] ----------------------------------
+
+[18:53:30] Number of vehicle models: 1
+[18:53:30] 7 houses loaded
+[18:53:49] [connection] incoming connection: 127.0.0.1:51501 id: 0
+[18:53:49] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[18:53:49] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[18:53:49] OnCheckSessionLoaded
+[18:54:29] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:442): "String/array must include a length, please add a destination size."
+[18:54:29] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:442): "String buffer overflow."
+[18:54:51] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:442): "String/array must include a length, please add a destination size."
+[18:54:51] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:442): "String buffer overflow."
+[18:54:57] [part] Ivan_Pistolas has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:02:51] 
+[22:02:51] Server Plugins
+[22:02:51] --------------
+[22:02:51]  Loading plugin: sscanf
+[22:02:51] 
+[22:02:51]  ===============================
+[22:02:51] 
+[22:02:51]       sscanf plugin loaded.     
+[22:02:51] 
+[22:02:51]          Version: 2.13.8
+[22:02:51] 
+[22:02:51]    (c) 2022 Alex "Y_Less" Cole  
+[22:02:51] 
+[22:02:51]  ===============================
+[22:02:51] 
+[22:02:51]   Loaded.
+[22:02:51]  Loading plugin: mysql
+[22:02:51]  >> plugin.mysql: R41-4 successfully loaded.
+[22:02:51]   Loaded.
+[22:02:51]  Loading plugin: streamer
+[22:02:51] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:02:51]   Loaded.
+[22:02:51]  Loaded 3 plugins.
+
+[22:02:51] 
+[22:02:51] Filterscripts
+[22:02:51] ---------------
+[22:02:51]   Loading filterscript 'flymode.amx'...
+[22:02:51]   Loaded 1 filterscripts.
+
+[22:02:51] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:02:51] [DB] Connected to database successfully
+[22:02:51] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:02:51] 
+----------------------------------
+[22:02:51]   Bare Script
+
+[22:02:51] ----------------------------------
+
+[22:02:51] Number of vehicle models: 1
+[22:02:51] 7 houses loaded
+[22:03:15] [connection] incoming connection: 127.0.0.1:50400 id: 0
+[22:03:15] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[22:03:15] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[22:03:15] OnCheckSessionLoaded
+[22:03:31] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:444): "String/array must include a length, please add a destination size."
+[22:03:31] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:444): "String buffer overflow."
+[22:07:31] [part] Ivan_Pistolas has left the server (0:1)
+[22:14:18] --- Server Shutting Down.
+[22:14:18] 
+[22:14:18]  ===============================
+[22:14:18] 
+[22:14:18]      sscanf plugin unloaded.    
+[22:14:18] 
+[22:14:18]  ===============================
+[22:14:18] 
+[22:14:18] plugin.mysql: Unloading plugin...
+[22:14:18] plugin.mysql: Plugin unloaded.
+[22:14:18] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:14:21] 
+[22:14:21] Server Plugins
+[22:14:21] --------------
+[22:14:21]  Loading plugin: sscanf
+[22:14:21] 
+[22:14:21]  ===============================
+[22:14:21] 
+[22:14:21]       sscanf plugin loaded.     
+[22:14:21] 
+[22:14:21]          Version: 2.13.8
+[22:14:21] 
+[22:14:21]    (c) 2022 Alex "Y_Less" Cole  
+[22:14:21] 
+[22:14:21]  ===============================
+[22:14:21] 
+[22:14:21]   Loaded.
+[22:14:21]  Loading plugin: mysql
+[22:14:21]  >> plugin.mysql: R41-4 successfully loaded.
+[22:14:21]   Loaded.
+[22:14:21]  Loading plugin: streamer
+[22:14:21] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:14:21]   Loaded.
+[22:14:21]  Loaded 3 plugins.
+
+[22:14:21] 
+[22:14:21] Filterscripts
+[22:14:21] ---------------
+[22:14:21]   Loading filterscript 'flymode.amx'...
+[22:14:21]   Loaded 1 filterscripts.
+
+[22:14:21] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:14:21] [DB] Connected to database successfully
+[22:14:21] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:14:21] 
+----------------------------------
+[22:14:21]   Bare Script
+
+[22:14:21] ----------------------------------
+
+[22:14:21] Number of vehicle models: 1
+[22:14:21] 7 houses loaded
+[22:14:42] [connection] incoming connection: 127.0.0.1:55743 id: 0
+[22:14:42] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[22:14:42] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[22:14:42] OnCheckSessionLoaded
+[22:15:17] 1069.812500, 1859.337280, 10.820312
+[22:15:18] [part] Ivan_Pistolas has left the server (0:1)
+[22:16:24] --- Server Shutting Down.
+[22:16:24] 
+[22:16:24]  ===============================
+[22:16:24] 
+[22:16:24]      sscanf plugin unloaded.    
+[22:16:24] 
+[22:16:24]  ===============================
+[22:16:24] 
+[22:16:24] plugin.mysql: Unloading plugin...
+[22:16:24] plugin.mysql: Plugin unloaded.
+[22:16:24] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:22:45] 
+[22:22:45] Server Plugins
+[22:22:45] --------------
+[22:22:45]  Loading plugin: sscanf
+[22:22:45] 
+[22:22:45]  ===============================
+[22:22:45] 
+[22:22:45]       sscanf plugin loaded.     
+[22:22:45] 
+[22:22:45]          Version: 2.13.8
+[22:22:45] 
+[22:22:45]    (c) 2022 Alex "Y_Less" Cole  
+[22:22:45] 
+[22:22:45]  ===============================
+[22:22:45] 
+[22:22:45]   Loaded.
+[22:22:45]  Loading plugin: mysql
+[22:22:45]  >> plugin.mysql: R41-4 successfully loaded.
+[22:22:45]   Loaded.
+[22:22:45]  Loading plugin: streamer
+[22:22:45] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:22:45]   Loaded.
+[22:22:45]  Loaded 3 plugins.
+
+[22:22:45] 
+[22:22:45] Filterscripts
+[22:22:45] ---------------
+[22:22:45]   Loading filterscript 'flymode.amx'...
+[22:22:45]   Loaded 1 filterscripts.
+
+[22:22:45] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:22:45] [DB] Connected to database successfully
+[22:22:45] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:22:45] 
+----------------------------------
+[22:22:45]   Bare Script
+
+[22:22:45] ----------------------------------
+
+[22:22:45] Number of vehicle models: 1
+[22:22:45] 7 houses loaded
+[22:23:13] [connection] incoming connection: 127.0.0.1:57158 id: 0
+[22:23:13] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[22:23:13] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[22:23:13] OnCheckSessionLoaded
+[22:23:49] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:458): "String/array must include a length, please add a destination size."
+[22:23:49] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:458): "String buffer overflow."
+[22:29:46] [part] Ivan_Pistolas has left the server (0:1)
+[22:30:37] --- Server Shutting Down.
+[22:30:37] 
+[22:30:37]  ===============================
+[22:30:37] 
+[22:30:37]      sscanf plugin unloaded.    
+[22:30:37] 
+[22:30:37]  ===============================
+[22:30:37] 
+[22:30:37] plugin.mysql: Unloading plugin...
+[22:30:37] plugin.mysql: Plugin unloaded.
+[22:30:37] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:34:07] 
+[22:34:07] Server Plugins
+[22:34:07] --------------
+[22:34:07]  Loading plugin: sscanf
+[22:34:07] 
+[22:34:07]  ===============================
+[22:34:07] 
+[22:34:07]       sscanf plugin loaded.     
+[22:34:07] 
+[22:34:07]          Version: 2.13.8
+[22:34:07] 
+[22:34:07]    (c) 2022 Alex "Y_Less" Cole  
+[22:34:07] 
+[22:34:07]  ===============================
+[22:34:07] 
+[22:34:07]   Loaded.
+[22:34:07]  Loading plugin: mysql
+[22:34:07]  >> plugin.mysql: R41-4 successfully loaded.
+[22:34:07]   Loaded.
+[22:34:07]  Loading plugin: streamer
+[22:34:07] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:34:07]   Loaded.
+[22:34:07]  Loaded 3 plugins.
+
+[22:34:07] 
+[22:34:07] Filterscripts
+[22:34:07] ---------------
+[22:34:07]   Loading filterscript 'flymode.amx'...
+[22:34:08]   Loaded 1 filterscripts.
+
+[22:34:08] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:34:08] [DB] Connected to database successfully
+[22:34:08] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:34:08] 
+----------------------------------
+[22:34:08]   Bare Script
+
+[22:34:08] ----------------------------------
+
+[22:34:08] Number of vehicle models: 1
+[22:34:08] 7 houses loaded
+[22:34:30] [connection] incoming connection: 127.0.0.1:55022 id: 0
+[22:34:30] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[22:34:30] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[22:34:30] OnCheckSessionLoaded
+[22:34:48] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:482): "String/array must include a length, please add a destination size."
+[22:34:48] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:482): "String buffer overflow."
+[22:36:34] [part] Ivan_Pistolas has left the server (0:1)
+[22:36:41] --- Server Shutting Down.
+[22:36:41] 
+[22:36:41]  ===============================
+[22:36:41] 
+[22:36:41]      sscanf plugin unloaded.    
+[22:36:41] 
+[22:36:41]  ===============================
+[22:36:41] 
+[22:36:41] plugin.mysql: Unloading plugin...
+[22:36:41] plugin.mysql: Plugin unloaded.
+[22:36:41] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:38:11] 
+[22:38:11] Server Plugins
+[22:38:11] --------------
+[22:38:11]  Loading plugin: sscanf
+[22:38:11] 
+[22:38:11]  ===============================
+[22:38:11] 
+[22:38:11]       sscanf plugin loaded.     
+[22:38:11] 
+[22:38:11]          Version: 2.13.8
+[22:38:11] 
+[22:38:11]    (c) 2022 Alex "Y_Less" Cole  
+[22:38:11] 
+[22:38:11]  ===============================
+[22:38:11] 
+[22:38:11]   Loaded.
+[22:38:11]  Loading plugin: mysql
+[22:38:11]  >> plugin.mysql: R41-4 successfully loaded.
+[22:38:11]   Loaded.
+[22:38:11]  Loading plugin: streamer
+[22:38:11] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:38:11]   Loaded.
+[22:38:11]  Loaded 3 plugins.
+
+[22:38:11] 
+[22:38:11] Filterscripts
+[22:38:11] ---------------
+[22:38:11]   Loading filterscript 'flymode.amx'...
+[22:38:11]   Loaded 1 filterscripts.
+
+[22:38:11] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:38:11] [DB] Connected to database successfully
+[22:38:11] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:38:11] 
+----------------------------------
+[22:38:11]   Bare Script
+
+[22:38:11] ----------------------------------
+
+[22:38:11] Number of vehicle models: 1
+[22:38:11] 7 houses loaded
+[22:38:33] [connection] incoming connection: 127.0.0.1:57772 id: 0
+[22:38:33] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[22:38:33] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[22:38:33] OnCheckSessionLoaded
+[22:38:46] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:482): "String/array must include a length, please add a destination size."
+[22:38:46] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:482): "String buffer overflow."
+[22:38:49] [part] Ivan_Pistolas has left the server (0:1)
+[22:38:55] --- Server Shutting Down.
+[22:38:55] 
+[22:38:55]  ===============================
+[22:38:55] 
+[22:38:55]      sscanf plugin unloaded.    
+[22:38:55] 
+[22:38:55]  ===============================
+[22:38:55] 
+[22:38:55] plugin.mysql: Unloading plugin...
+[22:38:55] plugin.mysql: Plugin unloaded.
+[22:38:55] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:39:51] 
+[22:39:51] Server Plugins
+[22:39:51] --------------
+[22:39:51]  Loading plugin: sscanf
+[22:39:51] 
+[22:39:51]  ===============================
+[22:39:51] 
+[22:39:51]       sscanf plugin loaded.     
+[22:39:51] 
+[22:39:51]          Version: 2.13.8
+[22:39:51] 
+[22:39:51]    (c) 2022 Alex "Y_Less" Cole  
+[22:39:51] 
+[22:39:51]  ===============================
+[22:39:51] 
+[22:39:51]   Loaded.
+[22:39:51]  Loading plugin: mysql
+[22:39:51]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:51]   Loaded.
+[22:39:51]  Loading plugin: streamer
+[22:39:51] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:39:51]   Loaded.
+[22:39:51]  Loaded 3 plugins.
+
+[22:39:51] 
+[22:39:51] Filterscripts
+[22:39:51] ---------------
+[22:39:51]   Loading filterscript 'flymode.amx'...
+[22:39:51]   Loaded 1 filterscripts.
+
+[22:39:51] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:39:51] [DB] Connected to database successfully
+[22:39:51] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:39:51] 
+----------------------------------
+[22:39:51]   Bare Script
+
+[22:39:51] ----------------------------------
+
+[22:39:51] Number of vehicle models: 1
+[22:39:51] 7 houses loaded
+[22:40:18] [connection] incoming connection: 127.0.0.1:49456 id: 0
+[22:40:18] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[22:40:18] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[22:40:18] OnCheckSessionLoaded
+[22:40:28] sscanf error (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:482): "String/array must include a length, please add a destination size."
+[22:40:28] sscanf warning (C:\Users\SPARTAN PC\Documents\GTA FULL\Server\gamemodes\main.pwn:482): "String buffer overflow."
+[22:40:32] [part] Ivan_Pistolas has left the server (0:1)
+[22:41:25] --- Server Shutting Down.
+[22:41:25] 
+[22:41:25]  ===============================
+[22:41:25] 
+[22:41:25]      sscanf plugin unloaded.    
+[22:41:25] 
+[22:41:25]  ===============================
+[22:41:25] 
+[22:41:25] plugin.mysql: Unloading plugin...
+[22:41:25] plugin.mysql: Plugin unloaded.
+[22:41:25] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:41:30] 
+[22:41:30] Server Plugins
+[22:41:30] --------------
+[22:41:30]  Loading plugin: sscanf
+[22:41:30] 
+[22:41:30]  ===============================
+[22:41:30] 
+[22:41:30]       sscanf plugin loaded.     
+[22:41:30] 
+[22:41:30]          Version: 2.13.8
+[22:41:30] 
+[22:41:30]    (c) 2022 Alex "Y_Less" Cole  
+[22:41:30] 
+[22:41:30]  ===============================
+[22:41:30] 
+[22:41:30]   Loaded.
+[22:41:30]  Loading plugin: mysql
+[22:41:30]  >> plugin.mysql: R41-4 successfully loaded.
+[22:41:30]   Loaded.
+[22:41:30]  Loading plugin: streamer
+[22:41:30] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:41:30]   Loaded.
+[22:41:30]  Loaded 3 plugins.
+
+[22:41:30] 
+[22:41:30] Filterscripts
+[22:41:30] ---------------
+[22:41:30]   Loading filterscript 'flymode.amx'...
+[22:41:30]   Loaded 1 filterscripts.
+
+[22:41:30] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:41:30] [DB] Connected to database successfully
+[22:41:30] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:41:30] 
+----------------------------------
+[22:41:30]   Bare Script
+
+[22:41:30] ----------------------------------
+
+[22:41:30] Number of vehicle models: 1
+[22:41:30] 7 houses loaded
+[22:46:38] --- Server Shutting Down.
+[22:46:38] 
+[22:46:38]  ===============================
+[22:46:38] 
+[22:46:38]      sscanf plugin unloaded.    
+[22:46:38] 
+[22:46:38]  ===============================
+[22:46:38] 
+[22:46:38] plugin.mysql: Unloading plugin...
+[22:46:38] plugin.mysql: Plugin unloaded.
+[22:46:38] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:46:43] 
+[22:46:43] Server Plugins
+[22:46:43] --------------
+[22:46:43]  Loading plugin: sscanf
+[22:46:43] 
+[22:46:43]  ===============================
+[22:46:43] 
+[22:46:43]       sscanf plugin loaded.     
+[22:46:43] 
+[22:46:43]          Version: 2.13.8
+[22:46:43] 
+[22:46:43]    (c) 2022 Alex "Y_Less" Cole  
+[22:46:43] 
+[22:46:43]  ===============================
+[22:46:43] 
+[22:46:43]   Loaded.
+[22:46:43]  Loading plugin: mysql
+[22:46:43]  >> plugin.mysql: R41-4 successfully loaded.
+[22:46:43]   Loaded.
+[22:46:43]  Loading plugin: streamer
+[22:46:43] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:46:43]   Loaded.
+[22:46:43]  Loaded 3 plugins.
+
+[22:46:43] 
+[22:46:43] Filterscripts
+[22:46:43] ---------------
+[22:46:43]   Loading filterscript 'flymode.amx'...
+[22:46:43]   Loaded 1 filterscripts.
+
+[22:46:43] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:46:43] [DB] Connected to database successfully
+[22:46:43] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:46:43] 
+----------------------------------
+[22:46:43]   Bare Script
+
+[22:46:43] ----------------------------------
+
+[22:46:43] Number of vehicle models: 1
+[22:46:44] 7 houses loaded
+[22:47:04] [connection] incoming connection: 127.0.0.1:49840 id: 0
+[22:47:05] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[22:47:05] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[22:47:05] OnCheckSessionLoaded
+[22:48:01] [part] Ivan_Pistolas has left the server (0:1)
+[22:49:05] --- Server Shutting Down.
+[22:49:05] 
+[22:49:05]  ===============================
+[22:49:05] 
+[22:49:05]      sscanf plugin unloaded.    
+[22:49:05] 
+[22:49:05]  ===============================
+[22:49:05] 
+[22:49:05] plugin.mysql: Unloading plugin...
+[22:49:05] plugin.mysql: Plugin unloaded.
+[22:49:05] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:49:07] 
+[22:49:07] Server Plugins
+[22:49:07] --------------
+[22:49:07]  Loading plugin: sscanf
+[22:49:07] 
+[22:49:07]  ===============================
+[22:49:07] 
+[22:49:07]       sscanf plugin loaded.     
+[22:49:07] 
+[22:49:07]          Version: 2.13.8
+[22:49:07] 
+[22:49:07]    (c) 2022 Alex "Y_Less" Cole  
+[22:49:07] 
+[22:49:07]  ===============================
+[22:49:07] 
+[22:49:07]   Loaded.
+[22:49:07]  Loading plugin: mysql
+[22:49:07]  >> plugin.mysql: R41-4 successfully loaded.
+[22:49:07]   Loaded.
+[22:49:07]  Loading plugin: streamer
+[22:49:07] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:49:07]   Loaded.
+[22:49:07]  Loaded 3 plugins.
+
+[22:49:07] 
+[22:49:07] Filterscripts
+[22:49:07] ---------------
+[22:49:07]   Loading filterscript 'flymode.amx'...
+[22:49:08]   Loaded 1 filterscripts.
+
+[22:49:08] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:49:08] [DB] Connected to database successfully
+[22:49:08] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:49:08] 
+----------------------------------
+[22:49:08]   Bare Script
+
+[22:49:08] ----------------------------------
+
+[22:49:08] Number of vehicle models: 1
+[22:49:08] 7 houses loaded
+[22:49:29] [connection] incoming connection: 127.0.0.1:61308 id: 0
+[22:49:29] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[22:49:29] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[22:49:29] OnCheckSessionLoaded
+[22:52:08] [death] Ivan_Pistolas died 54
+[22:52:27] [part] Ivan_Pistolas has left the server (0:1)
+[22:52:52] --- Server Shutting Down.
+[22:52:52] 
+[22:52:52]  ===============================
+[22:52:52] 
+[22:52:52]      sscanf plugin unloaded.    
+[22:52:52] 
+[22:52:52]  ===============================
+[22:52:52] 
+[22:52:52] plugin.mysql: Unloading plugin...
+[22:52:52] plugin.mysql: Plugin unloaded.
+[22:52:52] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:52:56] 
+[22:52:56] Server Plugins
+[22:52:56] --------------
+[22:52:56]  Loading plugin: sscanf
+[22:52:56] 
+[22:52:56]  ===============================
+[22:52:56] 
+[22:52:56]       sscanf plugin loaded.     
+[22:52:56] 
+[22:52:56]          Version: 2.13.8
+[22:52:56] 
+[22:52:56]    (c) 2022 Alex "Y_Less" Cole  
+[22:52:56] 
+[22:52:56]  ===============================
+[22:52:56] 
+[22:52:56]   Loaded.
+[22:52:56]  Loading plugin: mysql
+[22:52:56]  >> plugin.mysql: R41-4 successfully loaded.
+[22:52:56]   Loaded.
+[22:52:56]  Loading plugin: streamer
+[22:52:56] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:52:56]   Loaded.
+[22:52:56]  Loaded 3 plugins.
+
+[22:52:56] 
+[22:52:56] Filterscripts
+[22:52:56] ---------------
+[22:52:56]   Loading filterscript 'flymode.amx'...
+[22:52:56]   Loaded 1 filterscripts.
+
+[22:52:56] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:52:56] [DB] Connected to database successfully
+[22:52:56] SELECT u.nick as owner_nick, h.id, h.x, h.y, h.z, h.price, h.name, h.description, h.owner, h.interior_id, h.interior_x, h.interior_y, h.interior_z, h.virtual_world FROM houses h LEFT JOIN users u ON h.owner = u.id;
+[22:52:56] 
+----------------------------------
+[22:52:56]   Bare Script
+
+[22:52:56] ----------------------------------
+
+[22:52:56] Number of vehicle models: 1
+[22:52:56] 7 houses loaded
+[22:53:18] [connection] incoming connection: 127.0.0.1:60289 id: 0
+[22:53:19] [join] Ivan_Pistolas has joined the server (0:127.0.0.1)
+[22:53:19] SELECT * FROM `users` WHERE `nick` = 'Ivan_Pistolas' LIMIT 1
+[22:53:19] OnCheckSessionLoaded
+[22:54:41] [death] Ivan_Pistolas died 54
+[22:54:54] [part] Ivan_Pistolas has left the server (0:1)
+[22:55:01] --- Server Shutting Down.
+[22:55:01] 
+[22:55:01]  ===============================
+[22:55:01] 
+[22:55:01]      sscanf plugin unloaded.    
+[22:55:01] 
+[22:55:01]  ===============================
+[22:55:01] 
+[22:55:01] plugin.mysql: Unloading plugin...
+[22:55:01] plugin.mysql: Plugin unloaded.
+[22:55:01] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+

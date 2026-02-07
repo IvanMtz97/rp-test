@@ -74,9 +74,30 @@ public OnPlayerCommandText(playerid, cmdtext[])
 {
 	if(!strcmp(cmdtext, "/flymode", true))
 	{
-	    // Place the player in and out of edit mode
+		// Place the player in and out of edit mode
 		if(GetPVarType(playerid, "FlyMode")) CancelFlyMode(playerid);
 		else FlyMode(playerid);
+		return 1;
+	}
+
+	if(!strcmp(cmdtext, "/flytp", true))
+	{
+		if(GetPVarType(playerid, "FlyMode")) {
+			CancelFlyMode(playerid);
+			TpPlayer(playerid);
+		}
+		else SendClientMessage(playerid, 0xFFFFFFFF, "You are not in fly mode!");
+		return 1;
+	}
+
+	if(!strcmp(cmdtext, "/pos", true))
+	{
+		new message[255], Float:X, Float:Y, Float:Z;
+		GetPlayerPos(playerid, X, Y, Z);
+		format(message, sizeof(message), "position: X: %f Y: %f Z: %f", X, Y, Z);
+		SendClientMessage(playerid, 0xFFFFFFFF, message);
+		format(message, sizeof(message), "POS: %f, %f, %f", X, Y, Z);
+		print(message);
 		return 1;
 	}
 	return 0;
@@ -248,8 +269,10 @@ stock CancelFlyMode(playerid)
 stock FlyMode(playerid)
 {
 	// Create an invisible object for the players camera to be attached to
-	new Float:X, Float:Y, Float:Z;
+	new message[255], Float:X, Float:Y, Float:Z;
 	GetPlayerPos(playerid, X, Y, Z);
+	format(message, sizeof(message), "Start position: X: %f Y: %f Z: %f", X, Y, Z);
+	SendClientMessage(playerid, 0xFFFFFFFF, message);
 	noclipdata[playerid][flyobject] = CreatePlayerObject(playerid, 19300, X, Y, Z, 0.0, 0.0, 0.0);
 
 	// Place the player in spectating mode so objects will be streamed based on camera location
@@ -259,6 +282,16 @@ stock FlyMode(playerid)
 
 	SetPVarInt(playerid, "FlyMode", 1);
 	noclipdata[playerid][cameramode] = CAMERA_MODE_FLY;
+	return 1;
+}
+
+stock TpPlayer(playerid)
+{
+	new message[255], Float:X, Float:Y, Float:Z;
+	GetPlayerCameraPos(playerid, X, Y, Z);
+	SetPlayerPos(playerid, X, Y, Z);
+	format(message, sizeof(message), "End position: X: %f Y: %f Z: %f", X, Y, Z);
+	SendClientMessage(playerid, 0xFFFFFFFF, message);
 	return 1;
 }
 

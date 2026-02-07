@@ -8,16 +8,18 @@
 		"pawn-lang/samp-stdlib:0.3.7-R2-2-1",
 		"Southclaws/zcmd",
 		"Y-Less/sscanf:v2.13.8",
-		"pBlueG/SA-MP-MySQL:R41"
+		"pBlueG/SA-MP-MySQL:R41-4",
+		"samp-incognito/samp-streamer-plugin:v2.9.6"
 	],
+	"local": true,
 	"runtime": {
 		"version": "0.3.7",
-		"mode": "server",
+		"filterscripts": [
+			"flymode"
+		],
 		"rcon_password": "asdqwe123",
 		"port": 7777,
 		"hostname": "SA-MP Server RP",
-		"maxplayers": 50,
-		"language": "",
 		"mapname": "San Andreas",
 		"weburl": "www.sa-mp.com",
 		"gamemodetext": "RP",
@@ -43,9 +45,6 @@
 		"lagcompmode": 1,
 		"connseedtime": 300000,
 		"db_logging": false,
-		"db_log_queries": false,
-		"conncookies": true,
-		"cookielogging": false,
-		"output": true
+		"db_log_queries": false
 	}
 }

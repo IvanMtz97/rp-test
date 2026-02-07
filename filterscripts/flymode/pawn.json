@@ -1,0 +1,7 @@
+{
+  "entry": "flymode.pwn",
+  "output": "../flymode.amx",
+  "dependencies": [
+    "sampctl/samp-stdlib"
+  ]
+}
